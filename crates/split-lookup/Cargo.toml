@@ -1,0 +1,28 @@
+[package]
+name = "split-lookup"
+description = "A reference split lookup: the box with the models embeds, shortlists from one-bit codes and reranks; a model-free vector database scores only the shortlist, in one request."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+publish.workspace = true
+
+[dependencies]
+anyhow = { workspace = true }
+axum = { workspace = true }
+clap = { workspace = true }
+early-start = { workspace = true }
+onebit = { workspace = true }
+reqwest = { workspace = true }
+rust-stemmers = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+thiserror = { workspace = true }
+tokio = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
+
+[lints]
+workspace = true

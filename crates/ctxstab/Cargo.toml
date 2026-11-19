@@ -1,0 +1,17 @@
+[package]
+name = "ctxstab"
+description = "Context-stability measures for retrieval-grounded agents: flip rate, repeat floor, reuse audit, settle lead."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+publish.workspace = true
+
+[dependencies]
+early-start = { workspace = true }
+serde = { workspace = true }
+
+[lints]
+workspace = true
