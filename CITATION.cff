@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Early start and a split one-bit lookup: code and data"
+authors:
+  - family-names: Mohanty
+    given-names: Suvendu
+    affiliation: F0 Labs LLC
+license: Apache-2.0
+repository-code: "https://github.com/f0labs-ai/early-start-split-lookup"
+preferred-citation:
+  type: article
+  title: "Early Start with Exact Reuse and a Split One-Bit Lookup for Retrieval-Grounded Voice Agents"
+  authors:
+    - family-names: Mohanty
+      given-names: Suvendu
+      affiliation: F0 Labs LLC
+  year: 2026
