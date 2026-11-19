@@ -1,0 +1,1408 @@
+{
+ "dense_leg": {
+  "database_dense_leg": {
+   "all_of_the_exact_top_64": {
+    "k": 62,
+    "n": 406,
+    "pct": 15.270935960591133,
+    "range95": [
+     12.098735610040025,
+     19.094193560644463
+    ]
+   },
+   "mean_share_of_the_exact_top_64_pct": 95.9,
+   "one_query_ms": {
+    "p50": 4.7,
+    "p95": 5.9
+   }
+  },
+  "ids_not_in_the_export": 0,
+  "leg": 64,
+  "oversampling": 8,
+  "split_dense_leg": {
+   "all_of_the_exact_top_64": {
+    "k": 87,
+    "n": 406,
+    "pct": 21.428571428571427,
+    "range95": [
+     17.71474567671137,
+     25.67801874739785
+    ]
+   },
+   "database_rescoring_ms": {
+    "p50": 1.8,
+    "p95": 2.4
+   },
+   "mean_share_of_the_exact_top_64_pct": 96.4,
+   "shortlist": 512,
+   "way": "the question's numbers against signs around zero"
+  },
+  "the_two_legs_return_the_same_64": {
+   "k": 51,
+   "n": 406,
+   "pct": 12.561576354679802,
+   "range95": [
+    9.684725685203134,
+    16.140275973974468
+   ]
+  }
+ },
+ "dimensions": 1024,
+ "exact_search": {
+  "one_search_us": {
+   "p50": 2345,
+   "p95": 2414
+  },
+  "right_page_in_the_first_10": {
+   "k": 385,
+   "n": 406,
+   "pct": 94.82758620689656,
+   "range95": [
+    92.22243332614246,
+    96.59236731878963
+   ]
+  },
+  "right_page_in_the_first_4": {
+   "k": 358,
+   "n": 406,
+   "pct": 88.17733990147784,
+   "range95": [
+    84.67310786843817,
+    90.96587070279521
+   ]
+  }
+ },
+ "exact_vectors_bytes": 11833344,
+ "passages": 2889,
+ "questions": 406,
+ "ways": [
+  {
+   "build_ms": 10.01,
+   "by_shortlist": [
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 50,
+      "n": 406,
+      "pct": 12.31527093596059,
+      "range95": [
+       9.467454260338425,
+       15.869553988702185
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 209,
+      "n": 406,
+      "pct": 51.477832512315274,
+      "range95": [
+       46.625265102618854,
+       56.30269535820308
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 70.4,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 368,
+      "n": 406,
+      "pct": 90.64039408866995,
+      "range95": [
+       87.41391653751879,
+       93.10499613508448
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 344,
+      "n": 406,
+      "pct": 84.72906403940887,
+      "range95": [
+       80.90580643935553,
+       87.90126438995999
+      ]
+     },
+     "shortlist": 64
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 108,
+      "n": 406,
+      "pct": 26.600985221674875,
+      "range95": [
+       22.536682096227334,
+       31.103943940758672
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 289,
+      "n": 406,
+      "pct": 71.18226600985221,
+      "range95": [
+       66.59428162061431,
+       75.37315165116678
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 82.5,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 375,
+      "n": 406,
+      "pct": 92.36453201970443,
+      "range95": [
+       89.36585137820215,
+       94.56901516536004
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 351,
+      "n": 406,
+      "pct": 86.45320197044335,
+      "range95": [
+       82.78066942211136,
+       89.44235527816309
+      ]
+     },
+     "shortlist": 128
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 165,
+      "n": 406,
+      "pct": 40.64039408866995,
+      "range95": [
+       35.97207520697414,
+       45.48417520782027
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 327,
+      "n": 406,
+      "pct": 80.54187192118226,
+      "range95": [
+       76.41217394739212,
+       84.09900890959459
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 88.5,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 378,
+      "n": 406,
+      "pct": 93.10344827586206,
+      "range95": [
+       90.21309803301466,
+       95.1857487409585
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 352,
+      "n": 406,
+      "pct": 86.69950738916256,
+      "range95": [
+       83.04987613401885,
+       89.66114197639261
+      ]
+     },
+     "shortlist": 192
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 208,
+      "n": 406,
+      "pct": 51.23152709359606,
+      "range95": [
+       46.380628135242965,
+       56.059338915441984
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 345,
+      "n": 406,
+      "pct": 84.97536945812809,
+      "range95": [
+       81.17266682126424,
+       88.12239741818827
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 91.7,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 379,
+      "n": 406,
+      "pct": 93.34975369458128,
+      "range95": [
+       90.49718033193808,
+       95.38965985217209
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 351,
+      "n": 406,
+      "pct": 86.45320197044335,
+      "range95": [
+       82.78066942211136,
+       89.44235527816309
+      ]
+     },
+     "shortlist": 256
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 279,
+      "n": 406,
+      "pct": 68.7192118226601,
+      "range95": [
+       64.05156573302834,
+       73.03593343738287
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 374,
+      "n": 406,
+      "pct": 92.11822660098522,
+      "range95": [
+       89.08498122264587,
+       94.36189191077935
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 95.7,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 383,
+      "n": 406,
+      "pct": 94.33497536945812,
+      "range95": [
+       91.64302307250817,
+       96.19579075214996
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 356,
+      "n": 406,
+      "pct": 87.6847290640394,
+      "range95": [
+       84.13044601129782,
+       90.53254573966159
+      ]
+     },
+     "shortlist": 384
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 316,
+      "n": 406,
+      "pct": 77.83251231527093,
+      "range95": [
+       73.54168606951824,
+       81.6015692759616
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 390,
+      "n": 406,
+      "pct": 96.05911330049261,
+      "range95": [
+       93.69483162373878,
+       97.55993607187827
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 97.5,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 357,
+      "n": 406,
+      "pct": 87.93103448275862,
+      "range95": [
+       84.40157048853077,
+       90.74941467256562
+      ]
+     },
+     "shortlist": 512
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 397,
+      "n": 406,
+      "pct": 97.78325123152709,
+      "range95": [
+       95.84124311858037,
+       98.8294784479956
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 98.7,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 384,
+      "n": 406,
+      "pct": 94.58128078817734,
+      "range95": [
+       91.93213371011734,
+       96.39467352467777
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 357,
+      "n": 406,
+      "pct": 87.93103448275862,
+      "range95": [
+       84.40157048853077,
+       90.74941467256562
+      ]
+     },
+     "shortlist": 768
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 400,
+      "n": 406,
+      "pct": 98.52216748768473,
+      "range95": [
+       96.8137102132627,
+       99.32099158372424
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 99.5,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 384,
+      "n": 406,
+      "pct": 94.58128078817734,
+      "range95": [
+       91.93213371011734,
+       96.39467352467777
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 357,
+      "n": 406,
+      "pct": 87.93103448275862,
+      "range95": [
+       84.40157048853077,
+       90.74941467256562
+      ]
+     },
+     "shortlist": 1024
+    }
+   ],
+   "codes_bytes": 369792,
+   "one_shortlist_of_512_us": {
+    "p50": 24,
+    "p95": 31,
+    "slowest": 71
+   },
+   "way": "bits, signs around zero"
+  },
+  {
+   "build_ms": 14.48,
+   "by_shortlist": [
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 177,
+      "n": 406,
+      "pct": 43.59605911330049,
+      "range95": [
+       38.85476915785009,
+       48.45740217858819
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 337,
+      "n": 406,
+      "pct": 83.00492610837438,
+      "range95": [
+       79.0461069939777,
+       86.3450099643789
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 87.6,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 360,
+      "n": 406,
+      "pct": 88.66995073891626,
+      "range95": [
+       85.21746566286146,
+       91.3974997286459
+      ]
+     },
+     "shortlist": 64
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 266,
+      "n": 406,
+      "pct": 65.51724137931035,
+      "range95": [
+       60.76770376528958,
+       69.97588107334076
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 376,
+      "n": 406,
+      "pct": 92.61083743842364,
+      "range95": [
+       89.64747142447128,
+       94.7753885292279
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 93.9,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 128
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 312,
+      "n": 406,
+      "pct": 76.84729064039409,
+      "range95": [
+       72.50410615574862,
+       80.68717554918324
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 384,
+      "n": 406,
+      "pct": 94.58128078817734,
+      "range95": [
+       91.93213371011734,
+       96.39467352467777
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 96.2,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 386,
+      "n": 406,
+      "pct": 95.07389162561576,
+      "range95": [
+       92.51399919047543,
+       96.78879486459364
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 192
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 335,
+      "n": 406,
+      "pct": 82.51231527093596,
+      "range95": [
+       78.5172830205452,
+       85.89784711753744
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 388,
+      "n": 406,
+      "pct": 95.56650246305419,
+      "range95": [
+       93.10128664237412,
+       97.17749423296897
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 97.2,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 386,
+      "n": 406,
+      "pct": 95.07389162561576,
+      "range95": [
+       92.51399919047543,
+       96.78879486459364
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 256
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 361,
+      "n": 406,
+      "pct": 88.91625615763547,
+      "range95": [
+       85.49030970141122,
+       91.61264910023313
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 394,
+      "n": 406,
+      "pct": 97.04433497536945,
+      "range95": [
+       94.90542470578282,
+       98.30131663038219
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 98.5,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 386,
+      "n": 406,
+      "pct": 95.07389162561576,
+      "range95": [
+       92.51399919047543,
+       96.78879486459364
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 384
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 372,
+      "n": 406,
+      "pct": 91.6256157635468,
+      "range95": [
+       88.52536876668056,
+       93.94551754647067
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 397,
+      "n": 406,
+      "pct": 97.78325123152709,
+      "range95": [
+       95.84124311858037,
+       98.8294784479956
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 99,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 386,
+      "n": 406,
+      "pct": 95.07389162561576,
+      "range95": [
+       92.51399919047543,
+       96.78879486459364
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 512
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 393,
+      "n": 406,
+      "pct": 96.79802955665025,
+      "range95": [
+       94.59936122202951,
+       98.1193867039985
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 402,
+      "n": 406,
+      "pct": 99.01477832512315,
+      "range95": [
+       97.49446415664421,
+       99.61622446061669
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 99.7,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 768
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 399,
+      "n": 406,
+      "pct": 98.27586206896552,
+      "range95": [
+       96.48432501245524,
+       99.16238337439471
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 405,
+      "n": 406,
+      "pct": 99.75369458128078,
+      "range95": [
+       98.61815992279661,
+       99.9565089248753
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 99.8,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 1024
+    }
+   ],
+   "codes_bytes": 369792,
+   "one_shortlist_of_512_us": {
+    "p50": 26,
+    "p95": 32,
+    "slowest": 54
+   },
+   "way": "bits, signs around the mean"
+  },
+  {
+   "build_ms": 8.82,
+   "by_shortlist": [
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 129,
+      "n": 406,
+      "pct": 31.773399014778324,
+      "range95": [
+       27.43328923428446,
+       36.45519841557833
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 322,
+      "n": 406,
+      "pct": 79.3103448275862,
+      "range95": [
+       75.10415906838826,
+       82.96705673791351
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 85.6,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 381,
+      "n": 406,
+      "pct": 93.8423645320197,
+      "range95": [
+       91.0680981509995,
+       95.79472885338464
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 356,
+      "n": 406,
+      "pct": 87.6847290640394,
+      "range95": [
+       84.13044601129782,
+       90.53254573966159
+      ]
+     },
+     "shortlist": 64
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 245,
+      "n": 406,
+      "pct": 60.3448275862069,
+      "range95": [
+       55.51080032142897,
+       64.98492290432459
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 376,
+      "n": 406,
+      "pct": 92.61083743842364,
+      "range95": [
+       89.64747142447128,
+       94.7753885292279
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 94.5,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 381,
+      "n": 406,
+      "pct": 93.8423645320197,
+      "range95": [
+       91.0680981509995,
+       95.79472885338464
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 356,
+      "n": 406,
+      "pct": 87.6847290640394,
+      "range95": [
+       84.13044601129782,
+       90.53254573966159
+      ]
+     },
+     "shortlist": 128
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 308,
+      "n": 406,
+      "pct": 75.86206896551724,
+      "range95": [
+       71.46961104075832,
+       79.76969702362557
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 392,
+      "n": 406,
+      "pct": 96.55172413793103,
+      "range95": [
+       94.2957227388353,
+       97.93503177705574
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 97.1,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 384,
+      "n": 406,
+      "pct": 94.58128078817734,
+      "range95": [
+       91.93213371011734,
+       96.39467352467777
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 356,
+      "n": 406,
+      "pct": 87.6847290640394,
+      "range95": [
+       84.13044601129782,
+       90.53254573966159
+      ]
+     },
+     "shortlist": 192
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 350,
+      "n": 406,
+      "pct": 86.20689655172414,
+      "range95": [
+       82.51181995331154,
+       89.22321133682591
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 397,
+      "n": 406,
+      "pct": 97.78325123152709,
+      "range95": [
+       95.84124311858037,
+       98.8294784479956
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 98.5,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 357,
+      "n": 406,
+      "pct": 87.93103448275862,
+      "range95": [
+       84.40157048853077,
+       90.74941467256562
+      ]
+     },
+     "shortlist": 256
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 379,
+      "n": 406,
+      "pct": 93.34975369458128,
+      "range95": [
+       90.49718033193808,
+       95.38965985217209
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 400,
+      "n": 406,
+      "pct": 98.52216748768473,
+      "range95": [
+       96.8137102132627,
+       99.32099158372424
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 99.3,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 357,
+      "n": 406,
+      "pct": 87.93103448275862,
+      "range95": [
+       84.40157048853077,
+       90.74941467256562
+      ]
+     },
+     "shortlist": 384
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 398,
+      "n": 406,
+      "pct": 98.0295566502463,
+      "range95": [
+       96.16046471923556,
+       98.99825025747741
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 403,
+      "n": 406,
+      "pct": 99.26108374384236,
+      "range95": [
+       97.85028748206153,
+       99.74839454533637
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 99.8,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 386,
+      "n": 406,
+      "pct": 95.07389162561576,
+      "range95": [
+       92.51399919047543,
+       96.78879486459364
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 512
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 405,
+      "n": 406,
+      "pct": 99.75369458128078,
+      "range95": [
+       98.61815992279661,
+       99.9565089248753
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 406,
+      "n": 406,
+      "pct": 100,
+      "range95": [
+       99.06266225780888,
+       100
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 100,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 768
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 406,
+      "n": 406,
+      "pct": 100,
+      "range95": [
+       99.06266225780888,
+       100
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 406,
+      "n": 406,
+      "pct": 100,
+      "range95": [
+       99.06266225780888,
+       100
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 100,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 1024
+    }
+   ],
+   "codes_bytes": 369792,
+   "one_shortlist_of_512_us": {
+    "p50": 304,
+    "p95": 323,
+    "slowest": 668
+   },
+   "way": "the question's numbers against signs around zero"
+  },
+  {
+   "build_ms": 21.27,
+   "by_shortlist": [
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 228,
+      "n": 406,
+      "pct": 56.1576354679803,
+      "range95": [
+       51.295610238810106,
+       60.90422501461463
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 367,
+      "n": 406,
+      "pct": 90.39408866995073,
+      "range95": [
+       87.1375387600552,
+       92.89338050241108
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 92.1,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 360,
+      "n": 406,
+      "pct": 88.66995073891626,
+      "range95": [
+       85.21746566286146,
+       91.3974997286459
+      ]
+     },
+     "shortlist": 64
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 307,
+      "n": 406,
+      "pct": 75.61576354679804,
+      "range95": [
+       71.21145387361578,
+       79.53986078063113
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 96.3,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 128
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 336,
+      "n": 406,
+      "pct": 82.75862068965517,
+      "range95": [
+       78.78156147592638,
+       86.12156207229323
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 390,
+      "n": 406,
+      "pct": 96.05911330049261,
+      "range95": [
+       93.69483162373878,
+       97.55993607187827
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 97.6,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 384,
+      "n": 406,
+      "pct": 94.58128078817734,
+      "range95": [
+       91.93213371011734,
+       96.39467352467777
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 192
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 349,
+      "n": 406,
+      "pct": 85.96059113300493,
+      "range95": [
+       82.24331984776792,
+       89.00371803223256
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 396,
+      "n": 406,
+      "pct": 97.53694581280789,
+      "range95": [
+       95.52599132239689,
+       98.65673683404209
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 98.2,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 256
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 372,
+      "n": 406,
+      "pct": 91.6256157635468,
+      "range95": [
+       88.52536876668056,
+       93.94551754647067
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 398,
+      "n": 406,
+      "pct": 98.0295566502463,
+      "range95": [
+       96.16046471923556,
+       98.99825025747741
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 99,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 384
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 392,
+      "n": 406,
+      "pct": 96.55172413793103,
+      "range95": [
+       94.2957227388353,
+       97.93503177705574
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 402,
+      "n": 406,
+      "pct": 99.01477832512315,
+      "range95": [
+       97.49446415664421,
+       99.61622446061669
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 99.6,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 512
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 401,
+      "n": 406,
+      "pct": 98.76847290640394,
+      "range95": [
+       97.14983817579315,
+       99.47285703133078
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 405,
+      "n": 406,
+      "pct": 99.75369458128078,
+      "range95": [
+       98.61815992279661,
+       99.9565089248753
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 99.9,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 768
+    },
+    {
+     "holds_all_of_the_exact_first_10": {
+      "k": 403,
+      "n": 406,
+      "pct": 99.26108374384236,
+      "range95": [
+       97.85028748206153,
+       99.74839454533637
+      ]
+     },
+     "holds_all_of_the_exact_first_4": {
+      "k": 406,
+      "n": 406,
+      "pct": 100,
+      "range95": [
+       99.06266225780888,
+       100
+      ]
+     },
+     "mean_share_of_the_exact_first_10_held_pct": 99.9,
+     "right_page_in_the_first_10_after_exact_scoring": {
+      "k": 385,
+      "n": 406,
+      "pct": 94.82758620689656,
+      "range95": [
+       92.22243332614246,
+       96.59236731878963
+      ]
+     },
+     "right_page_in_the_first_4_after_exact_scoring": {
+      "k": 358,
+      "n": 406,
+      "pct": 88.17733990147784,
+      "range95": [
+       84.67310786843817,
+       90.96587070279521
+      ]
+     },
+     "shortlist": 1024
+    }
+   ],
+   "codes_bytes": 369792,
+   "one_shortlist_of_512_us": {
+    "p50": 308,
+    "p95": 333,
+    "slowest": 495
+   },
+   "way": "the question's numbers against signs around the mean"
+  }
+ ]
+}

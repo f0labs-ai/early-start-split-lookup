@@ -1,0 +1,7 @@
+{"placement":"together","each_way_ms":0,"lookups":100,"p50_ms":112,"p90_ms":121,"p99_ms":132}
+{"placement":"models-at-the-database","each_way_ms":20,"lookups":100,"p50_ms":120,"p90_ms":127,"p99_ms":142}
+{"placement":"models-on-the-voice-box","each_way_ms":20,"lookups":100,"p50_ms":207,"p90_ms":216,"p99_ms":228}
+{"placement":"models-at-the-database","each_way_ms":60,"lookups":100,"p50_ms":203,"p90_ms":213,"p99_ms":228}
+{"placement":"models-on-the-voice-box","each_way_ms":60,"lookups":100,"p50_ms":441,"p90_ms":452,"p99_ms":472}
+{"placement":"models-at-the-database","each_way_ms":120,"lookups":100,"p50_ms":316,"p90_ms":327,"p99_ms":335}
+{"placement":"models-on-the-voice-box","each_way_ms":120,"lookups":100,"p50_ms":806,"p90_ms":813,"p99_ms":823}

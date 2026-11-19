@@ -1,0 +1,40 @@
+{
+ "note": "Sums and counts of each stage's milliseconds over every search the existing knowledge service ran back to back on the test box (its metrics at the end of round 3). resolve: matched symptom phrasings resolved to the steps they stand for.",
+ "stages": {
+  "embed": {
+   "outcome": "ok",
+   "sum_ms": 29660.628238999914,
+   "count": 2914
+  },
+  "hybrid": {
+   "outcome": "ok",
+   "sum_ms": 151552.85708600024,
+   "count": 2914
+  },
+  "resolve": {
+   "outcome": "ok",
+   "sum_ms": 112817.22113500023,
+   "count": 2851
+  },
+  "rerank": {
+   "outcome": "ok",
+   "sum_ms": 30943.54163100006,
+   "count": 2894
+  },
+  "rerank_failed": {
+   "outcome": "error",
+   "sum_ms": 21.829373000000004,
+   "count": 20
+  },
+  "parent": {
+   "outcome": "ok",
+   "sum_ms": 867.5661029999992,
+   "count": 1986
+  },
+  "total": {
+   "outcome": "ok",
+   "sum_ms": 326639.9584889997,
+   "count": 2914
+  }
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "name": "early-s-d120",
+ "early_start": "first-silence:128:request",
+ "silence_floor_ms": 320,
+ "mic_frame_ms": 32,
+ "kb_delay_ms": 120,
+ "lookup": "existing",
+ "knowledge_searches": 149,
+ "stub_ttft_ms": 300,
+ "started": "2026-11-19T12:48:21Z",
+ "ended": "2026-11-19T13:03:09Z"
+}

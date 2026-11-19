@@ -1,0 +1,12 @@
+{
+ "name": "early-f256",
+ "early_start": "first-silence:128:request",
+ "silence_floor_ms": 320,
+ "mic_frame_ms": 256,
+ "kb_delay_ms": 0,
+ "lookup": "existing",
+ "knowledge_searches": 360,
+ "stub_ttft_ms": 300,
+ "started": "2026-11-19T10:03:12Z",
+ "ended": "2026-11-19T10:33:27Z"
+}

@@ -1,0 +1,2846 @@
+{
+ "questions": [
+  {
+   "qid": "1",
+   "style": "short",
+   "question": "How do I create my new organization?",
+   "gold_id": "d7528b29-4637-55f9-ad70-29980bbd48b5",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "2",
+   "style": "long",
+   "question": "I just signed up and need to know how to name my workspace to get into the console.",
+   "gold_id": "d7528b29-4637-55f9-ad70-29980bbd48b5",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "3",
+   "style": "short",
+   "question": "Where do I change my agent's logo and colors?",
+   "gold_id": "d117d297-2955-5cb1-a4bb-62b632410bab",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "4",
+   "style": "long",
+   "question": "I want to customize the visual appearance and voice of my chatbot for my customers.",
+   "gold_id": "d117d297-2955-5cb1-a4bb-62b632410bab",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "5",
+   "style": "short",
+   "question": "How do you verify the agent is live?",
+   "gold_id": "db851be3-6d09-545d-bde4-397d564c60d6",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "6",
+   "style": "long",
+   "question": "I need to know if the system checks the actual page load to confirm the agent is working.",
+   "gold_id": "db851be3-6d09-545d-bde4-397d564c60d6",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "7",
+   "style": "short",
+   "question": "How do I add my team members?",
+   "gold_id": "dc753af6-8d1b-54ab-948b-76f1f641ff13",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "8",
+   "style": "long",
+   "question": "I need to invite my colleagues and assign them specific roles so I know their access levels.",
+   "gold_id": "dc753af6-8d1b-54ab-948b-76f1f641ff13",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "9",
+   "style": "short",
+   "question": "Can I use a custom button on my site?",
+   "gold_id": "64088b01-dd51-54ff-b0eb-538bbd8f5e6b",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "10",
+   "style": "long",
+   "question": "I want to add my agent to my website using a floating widget or my own custom button.",
+   "gold_id": "64088b01-dd51-54ff-b0eb-538bbd8f5e6b",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "11",
+   "style": "short",
+   "question": "Does the console support single sign-on?",
+   "gold_id": "4d8d4f30-5bdd-5c8d-90a5-4a9a3d368fcc",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "12",
+   "style": "long",
+   "question": "I need to connect my team's login to Okta or Azure AD for secure console access.",
+   "gold_id": "4d8d4f30-5bdd-5c8d-90a5-4a9a3d368fcc",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "13",
+   "style": "short",
+   "question": "How long does it take to set up?",
+   "gold_id": "1938db8a-b641-5383-b50f-430c2a8f9702",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "14",
+   "style": "long",
+   "question": "I want to know roughly how much time it takes from signing up to having a live agent.",
+   "gold_id": "1938db8a-b641-5383-b50f-430c2a8f9702",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "15",
+   "style": "short",
+   "question": "Who answers when I email support?",
+   "gold_id": "526ceb57-5277-513a-8d2f-f7a1b7dd5740",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "16",
+   "style": "long",
+   "question": "I am stuck and need to know if a real person will reply to my email about the error.",
+   "gold_id": "526ceb57-5277-513a-8d2f-f7a1b7dd5740",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "17",
+   "style": "short",
+   "question": "How do I teach the agent my business rules?",
+   "gold_id": "2b9e7979-54ca-5035-8239-125b3398afdb",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "18",
+   "style": "long",
+   "question": "I need to configure what the bot knows about my company and how it should sound to users.",
+   "gold_id": "2b9e7979-54ca-5035-8239-125b3398afdb",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "19",
+   "style": "short",
+   "question": "What do the daily metrics actually mean?",
+   "gold_id": "13e1a95c-db35-54b0-89bb-13cd2509e204",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "20",
+   "style": "long",
+   "question": "I am looking at the dashboard and need to understand the numbers and how to use the captured data.",
+   "gold_id": "13e1a95c-db35-54b0-89bb-13cd2509e204",
+   "gold_page": "https://docs.bidirection.ai"
+  },
+  {
+   "qid": "21",
+   "style": "short",
+   "question": "What does the base label do?",
+   "gold_id": "d08af704-4c20-5dc6-bf98-6c41d5bd4455",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "22",
+   "style": "long",
+   "question": "I need to know how the system organizes new bases for agents.",
+   "gold_id": "d08af704-4c20-5dc6-bf98-6c41d5bd4455",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "23",
+   "style": "short",
+   "question": "What should I name the new base?",
+   "gold_id": "4fc7eac5-8371-5855-87ae-cc5edfe728b7",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "24",
+   "style": "long",
+   "question": "I am setting up a new store and need naming advice for teammates.",
+   "gold_id": "4fc7eac5-8371-5855-87ae-cc5edfe728b7",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "25",
+   "style": "short",
+   "question": "Can I refresh a file I uploaded?",
+   "gold_id": "37e8afdf-5b35-5d0b-a464-e74f136e8784",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "26",
+   "style": "long",
+   "question": "I want to update my source but it was a direct file upload.",
+   "gold_id": "37e8afdf-5b35-5d0b-a464-e74f136e8784",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "27",
+   "style": "short",
+   "question": "What happens when I delete a source?",
+   "gold_id": "dacac08f-d8de-5b25-92f4-ae097b652314",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "28",
+   "style": "long",
+   "question": "I am removing a specific document and want to know the impact on retrieval.",
+   "gold_id": "dacac08f-d8de-5b25-92f4-ae097b652314",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "29",
+   "style": "short",
+   "question": "Does deleting the base affect attached agents?",
+   "gold_id": "7f062051-14c4-5ae9-9634-8221be71477b",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "30",
+   "style": "long",
+   "question": "I plan to remove the entire knowledge base and worry about my agent setup.",
+   "gold_id": "7f062051-14c4-5ae9-9634-8221be71477b",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "31",
+   "style": "short",
+   "question": "What types of bases can I create?",
+   "gold_id": "7ad254d3-f45a-55cb-88d1-2bdbc5e1e4fa",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "32",
+   "style": "long",
+   "question": "I am starting a new project and need to pick the correct category type.",
+   "gold_id": "7ad254d3-f45a-55cb-88d1-2bdbc5e1e4fa",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "33",
+   "style": "short",
+   "question": "How do I add a web page?",
+   "gold_id": "9e6359fa-1198-5902-abb6-048584e90d49",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "34",
+   "style": "long",
+   "question": "I have a specific URL and need to extract its text for indexing.",
+   "gold_id": "9e6359fa-1198-5902-abb6-048584e90d49",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "35",
+   "style": "short",
+   "question": "Where do I attach the new base?",
+   "gold_id": "1c753d06-f3a6-59c9-b67b-6c63a0f9bc0b",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "36",
+   "style": "long",
+   "question": "I created the knowledge base but the agent is not using it yet.",
+   "gold_id": "1c753d06-f3a6-59c9-b67b-6c63a0f9bc0b",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "37",
+   "style": "short",
+   "question": "What is a knowledge base used for?",
+   "gold_id": "02fbd009-7335-5ee0-90dc-440a963d1550",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "38",
+   "style": "long",
+   "question": "I am trying to understand the difference between this and the website scan.",
+   "gold_id": "02fbd009-7335-5ee0-90dc-440a963d1550",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "39",
+   "style": "short",
+   "question": "How do I start adding new sources?",
+   "gold_id": "28ac2d8a-f9a0-538c-b1b0-ebe1b604878d",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "40",
+   "style": "long",
+   "question": "I found the base card and need to know the next step to add data.",
+   "gold_id": "28ac2d8a-f9a0-538c-b1b0-ebe1b604878d",
+   "gold_page": "https://docs.bidirection.ai/add-knowledge"
+  },
+  {
+   "qid": "41",
+   "style": "short",
+   "question": "When can I see the secret again?",
+   "gold_id": "1b74a2dd-b754-5e3e-9f0c-053c1326324b",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "42",
+   "style": "long",
+   "question": "I just created a key and want to know when I can view it again.",
+   "gold_id": "1b74a2dd-b754-5e3e-9f0c-053c1326324b",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "43",
+   "style": "short",
+   "question": "How do I add the agent to my site?",
+   "gold_id": "b1c0be00-12dc-5af8-b7d9-271e62e37ce4",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "44",
+   "style": "long",
+   "question": "I am trying to embed the chat widget on my public website now.",
+   "gold_id": "b1c0be00-12dc-5af8-b7d9-271e62e37ce4",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "45",
+   "style": "short",
+   "question": "Should I use one key for everything?",
+   "gold_id": "0e09f8d5-9e2d-57b0-9c4c-4fd35187f04d",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "46",
+   "style": "long",
+   "question": "I want to know if I should split keys by environment for better security.",
+   "gold_id": "0e09f8d5-9e2d-57b0-9c4c-4fd35187f04d",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "47",
+   "style": "short",
+   "question": "Where do I find the API keys?",
+   "gold_id": "438a6063-04b4-56a6-9557-8d18f867377a",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "48",
+   "style": "long",
+   "question": "I am looking for the specific settings tab where I manage my keys.",
+   "gold_id": "438a6063-04b4-56a6-9557-8d18f867377a",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "49",
+   "style": "short",
+   "question": "What should I name my new key?",
+   "gold_id": "88e821f8-129f-52f3-bf13-702132063e0f",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "50",
+   "style": "long",
+   "question": "I am creating a key for our production server and need naming advice.",
+   "gold_id": "88e821f8-129f-52f3-bf13-702132063e0f",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "51",
+   "style": "short",
+   "question": "Can I restore a deleted API key?",
+   "gold_id": "4d2c275e-abeb-502f-9897-8bb0b56f6118",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "52",
+   "style": "long",
+   "question": "I accidentally revoked a key and want to know if I can bring it back.",
+   "gold_id": "4d2c275e-abeb-502f-9897-8bb0b56f6118",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "53",
+   "style": "short",
+   "question": "Who is allowed to see this page?",
+   "gold_id": "f0bb0e1e-9ad4-549c-bc9d-104e446a288f",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "54",
+   "style": "long",
+   "question": "I am checking which user roles have permission to view the API key section.",
+   "gold_id": "f0bb0e1e-9ad4-549c-bc9d-104e446a288f",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "55",
+   "style": "short",
+   "question": "What does the last used date mean?",
+   "gold_id": "2ba54c8b-7629-53d6-b7d0-2f0998dfa9e1",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "56",
+   "style": "long",
+   "question": "I want to understand what the last used column tells me about my active keys.",
+   "gold_id": "2ba54c8b-7629-53d6-b7d0-2f0998dfa9e1",
+   "gold_page": "https://docs.bidirection.ai/api-keys"
+  },
+  {
+   "qid": "57",
+   "style": "short",
+   "question": "Who answers if others are attached?",
+   "gold_id": "f92733e8-d689-5e0a-9def-4826576b0645",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "58",
+   "style": "long",
+   "question": "If I attach this domain here, do the other agents keep working on it?",
+   "gold_id": "f92733e8-d689-5e0a-9def-4826576b0645",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "59",
+   "style": "short",
+   "question": "What happens when I detach the last one?",
+   "gold_id": "acb05c1b-543c-50c7-a975-7427ee49011e",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "60",
+   "style": "long",
+   "question": "If I remove the only attached agent, does the domain revert to everyone?",
+   "gold_id": "acb05c1b-543c-50c7-a975-7427ee49011e",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "61",
+   "style": "short",
+   "question": "How does domain authorization work for agents?",
+   "gold_id": "37670158-7e53-59b0-bf57-91caeb7842fb",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "62",
+   "style": "long",
+   "question": "I want to understand how claiming a domain affects other agents in my workspace.",
+   "gold_id": "37670158-7e53-59b0-bf57-91caeb7842fb",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "63",
+   "style": "short",
+   "question": "Why did my other agent stop answering?",
+   "gold_id": "db2728e0-7c46-5834-a7b5-0a047c0222c6",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "64",
+   "style": "long",
+   "question": "My second agent went offline after I attached a domain, what should I check first?",
+   "gold_id": "db2728e0-7c46-5834-a7b5-0a047c0222c6",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "65",
+   "style": "short",
+   "question": "Where do I attach a domain to an agent?",
+   "gold_id": "58fb4d1d-3cc0-51df-8fa3-535f9dfa36db",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "66",
+   "style": "long",
+   "question": "I am trying to bind a domain to my agent, which tab do I need to open?",
+   "gold_id": "58fb4d1d-3cc0-51df-8fa3-535f9dfa36db",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "67",
+   "style": "short",
+   "question": "Why is domain claiming so strict for agents?",
+   "gold_id": "0e5674bc-ad43-5eba-a06f-5dfb1530156c",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "68",
+   "style": "long",
+   "question": "Can you explain why the system requires unambiguous authorization for domain access?",
+   "gold_id": "0e5674bc-ad43-5eba-a06f-5dfb1530156c",
+   "gold_page": "https://docs.bidirection.ai/attach-domains-to-agents"
+  },
+  {
+   "qid": "69",
+   "style": "short",
+   "question": "How do I save a new voice?",
+   "gold_id": "14ce54e6-8b1e-5531-9749-a5959d8de7dc",
+   "gold_page": "https://docs.bidirection.ai/brand-your-agent"
+  },
+  {
+   "qid": "70",
+   "style": "long",
+   "question": "I just picked a new voice card, does it apply immediately?",
+   "gold_id": "14ce54e6-8b1e-5531-9749-a5959d8de7dc",
+   "gold_page": "https://docs.bidirection.ai/brand-your-agent"
+  },
+  {
+   "qid": "71",
+   "style": "short",
+   "question": "Can I upload my own agent picture?",
+   "gold_id": "ebc15e88-b29f-5ab7-a969-d2c6925763bf",
+   "gold_page": "https://docs.bidirection.ai/brand-your-agent"
+  },
+  {
+   "qid": "72",
+   "style": "long",
+   "question": "I want to use a custom photo instead of the default face.",
+   "gold_id": "ebc15e88-b29f-5ab7-a969-d2c6925763bf",
+   "gold_page": "https://docs.bidirection.ai/brand-your-agent"
+  },
+  {
+   "qid": "73",
+   "style": "short",
+   "question": "Does cloning a voice change its style?",
+   "gold_id": "a8673ab0-6edf-5d96-8bb6-cb3825182c6a",
+   "gold_page": "https://docs.bidirection.ai/brand-your-agent"
+  },
+  {
+   "qid": "74",
+   "style": "long",
+   "question": "I cloned a voice but I want to know if I can change its tone.",
+   "gold_id": "a8673ab0-6edf-5d96-8bb6-cb3825182c6a",
+   "gold_page": "https://docs.bidirection.ai/brand-your-agent"
+  },
+  {
+   "qid": "75",
+   "style": "short",
+   "question": "How long should the welcome message be?",
+   "gold_id": "c9284960-9cba-579d-b7db-7e29a8e7359f",
+   "gold_page": "https://docs.bidirection.ai/brand-your-agent"
+  },
+  {
+   "qid": "76",
+   "style": "long",
+   "question": "What is the best length for the first sentence callers hear?",
+   "gold_id": "c9284960-9cba-579d-b7db-7e29a8e7359f",
+   "gold_page": "https://docs.bidirection.ai/brand-your-agent"
+  },
+  {
+   "qid": "77",
+   "style": "short",
+   "question": "How long should the recording be?",
+   "gold_id": "a5512d85-70a4-561c-8e7f-88a937332e0e",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "78",
+   "style": "long",
+   "question": "I am trying to clone my voice but the recorder keeps stopping, why?",
+   "gold_id": "a5512d85-70a4-561c-8e7f-88a937332e0e",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "79",
+   "style": "short",
+   "question": "Can I upload an audio file instead?",
+   "gold_id": "ebfd6047-5780-561c-b0be-1fdd5ec7403b",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "80",
+   "style": "long",
+   "question": "I already have a recorded clip so I do not want to record live now.",
+   "gold_id": "ebfd6047-5780-561c-b0be-1fdd5ec7403b",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "81",
+   "style": "short",
+   "question": "How do I save my new voice?",
+   "gold_id": "b2d370de-9f35-51a1-9196-9ef79c97dd3b",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "82",
+   "style": "long",
+   "question": "I finished recording my sample, what button do I press to keep it?",
+   "gold_id": "b2d370de-9f35-51a1-9196-9ef79c97dd3b",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "83",
+   "style": "short",
+   "question": "How can I check my recording?",
+   "gold_id": "79252982-7433-54ed-b87b-7217b27971b7",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "84",
+   "style": "long",
+   "question": "I just stopped recording and I want to listen to it before saving.",
+   "gold_id": "79252982-7433-54ed-b87b-7217b27971b7",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "85",
+   "style": "short",
+   "question": "How do I start the voice cloning?",
+   "gold_id": "cbf663f5-ad66-5c83-af59-0066d9cc8897",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "86",
+   "style": "long",
+   "question": "I need to begin recording my sample, where is the start button?",
+   "gold_id": "cbf663f5-ad66-5c83-af59-0066d9cc8897",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "87",
+   "style": "short",
+   "question": "What happens if I delete a voice?",
+   "gold_id": "be130886-c8a4-5f62-bba8-833d1d15287d",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "88",
+   "style": "long",
+   "question": "I want to remove a custom voice, will it break the agents using it?",
+   "gold_id": "be130886-c8a4-5f62-bba8-833d1d15287d",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "89",
+   "style": "short",
+   "question": "Does the voice setting change the welcome message?",
+   "gold_id": "d98f97ad-5847-5a98-a049-ba2adb164752",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "90",
+   "style": "long",
+   "question": "I want to know if changing the voice also changes the opening line.",
+   "gold_id": "d98f97ad-5847-5a98-a049-ba2adb164752",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "91",
+   "style": "short",
+   "question": "Where do I assign a voice to an agent?",
+   "gold_id": "fe8f8828-6df9-59d7-a32d-b4c4f8b2a06b",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "92",
+   "style": "long",
+   "question": "I need to pick a specific voice for my support agent, how do I do that?",
+   "gold_id": "fe8f8828-6df9-59d7-a32d-b4c4f8b2a06b",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "93",
+   "style": "short",
+   "question": "What is the maximum file size for upload?",
+   "gold_id": "88da27a7-0120-5cf6-9546-a1af4a76c034",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "94",
+   "style": "long",
+   "question": "I have a long audio file I want to upload, is there a size limit?",
+   "gold_id": "88da27a7-0120-5cf6-9546-a1af4a76c034",
+   "gold_page": "https://docs.bidirection.ai/choose-a-voice"
+  },
+  {
+   "qid": "95",
+   "style": "short",
+   "question": "What do I name the connection?",
+   "gold_id": "dec953e3-33ed-55a4-a0d1-12fdd12ab062",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "96",
+   "style": "long",
+   "question": "I need to know what to put in the name field when setting up a new link.",
+   "gold_id": "dec953e3-33ed-55a4-a0d1-12fdd12ab062",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "97",
+   "style": "short",
+   "question": "Which fields are mandatory to fill in?",
+   "gold_id": "f808ddf8-9be1-54c1-9718-4a3d3bf6a95d",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "98",
+   "style": "long",
+   "question": "I am filling out the service details and want to know which ones are required.",
+   "gold_id": "f808ddf8-9be1-54c1-9718-4a3d3bf6a95d",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "99",
+   "style": "short",
+   "question": "What does the Slack connection do?",
+   "gold_id": "aec614a2-7fdb-57ec-b0b2-ccb29dee7636",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "100",
+   "style": "long",
+   "question": "I am looking at the Slack option and want to know what it sends to my channels.",
+   "gold_id": "aec614a2-7fdb-57ec-b0b2-ccb29dee7636",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "101",
+   "style": "short",
+   "question": "How do webhooks send conversation data?",
+   "gold_id": "4adf1605-93d4-5959-bf6d-de72f358db98",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "102",
+   "style": "long",
+   "question": "I need to understand how the webhook feature delivers events to my own server.",
+   "gold_id": "4adf1605-93d4-5959-bf6d-de72f358db98",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "103",
+   "style": "short",
+   "question": "How do I start the connection process?",
+   "gold_id": "d324d8c9-e40a-5643-81ff-b630265fc530",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "104",
+   "style": "long",
+   "question": "I found the right tool card, but I am not sure which button to press first.",
+   "gold_id": "d324d8c9-e40a-5643-81ff-b630265fc530",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "105",
+   "style": "short",
+   "question": "What is the custom connection used for?",
+   "gold_id": "9d3d51ba-4b4f-5cb6-954f-e6c1971e4a2f",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "106",
+   "style": "long",
+   "question": "I am considering the generic option and want to know what kind of data it actually stores.",
+   "gold_id": "9d3d51ba-4b4f-5cb6-954f-e6c1971e4a2f",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "107",
+   "style": "short",
+   "question": "Can I connect my Gmail account?",
+   "gold_id": "fe467af4-08d1-5236-9657-43b56da74f6f",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "108",
+   "style": "long",
+   "question": "I want email replies to go to the agent, so is Gmail supported right now?",
+   "gold_id": "fe467af4-08d1-5236-9657-43b56da74f6f",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "109",
+   "style": "short",
+   "question": "Can agents use connections set up by others?",
+   "gold_id": "28bc890c-84e8-591f-b568-e9c8fcc10728",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "110",
+   "style": "long",
+   "question": "I am wiring up tools in the library and want to know if my team can use them.",
+   "gold_id": "28bc890c-84e8-591f-b568-e9c8fcc10728",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "111",
+   "style": "short",
+   "question": "What does the test button actually check?",
+   "gold_id": "c806b7a1-62fc-569f-b304-c49738297c04",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "112",
+   "style": "long",
+   "question": "I am about to press test on my card and want to know what it validates.",
+   "gold_id": "c806b7a1-62fc-569f-b304-c49738297c04",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "113",
+   "style": "short",
+   "question": "How do I permanently delete a connection?",
+   "gold_id": "07c75999-d241-5cdd-afb5-c6fdb80e5335",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "114",
+   "style": "long",
+   "question": "I want to remove a connection entirely so no agents can use it anymore, how do I do that?",
+   "gold_id": "07c75999-d241-5cdd-afb5-c6fdb80e5335",
+   "gold_page": "https://docs.bidirection.ai/connect-tools"
+  },
+  {
+   "qid": "115",
+   "style": "short",
+   "question": "Where do I see daily stats?",
+   "gold_id": "d02e2c10-e797-5e12-914b-fc1e4ce74c47",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "116",
+   "style": "long",
+   "question": "I need to check my daily performance, which section should I use?",
+   "gold_id": "d02e2c10-e797-5e12-914b-fc1e4ce74c47",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "117",
+   "style": "short",
+   "question": "How do I see all agents?",
+   "gold_id": "c18fd5d7-8cd3-54c2-8d2b-8699f531fe9d",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "118",
+   "style": "long",
+   "question": "I am trying to find every agent in our organization, where is that list?",
+   "gold_id": "c18fd5d7-8cd3-54c2-8d2b-8699f531fe9d",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "119",
+   "style": "short",
+   "question": "Where are the API keys?",
+   "gold_id": "11d16649-051b-537f-8555-7d5b28e2b43f",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "120",
+   "style": "long",
+   "question": "I need to update my API keys, which settings tab should I open?",
+   "gold_id": "11d16649-051b-537f-8555-7d5b28e2b43f",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "121",
+   "style": "short",
+   "question": "Where do shared resources live?",
+   "gold_id": "838ff914-7d9d-561a-87f2-1dbf351ee1a3",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "122",
+   "style": "long",
+   "question": "I want to manage shared voices and skills, which sidebar item holds them?",
+   "gold_id": "838ff914-7d9d-561a-87f2-1dbf351ee1a3",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "123",
+   "style": "short",
+   "question": "Where do I check live chats?",
+   "gold_id": "18e0e78c-adba-5abf-8ad1-502a93f10a5f",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "124",
+   "style": "long",
+   "question": "I need to monitor live conversations for a specific agent, where do I go?",
+   "gold_id": "18e0e78c-adba-5abf-8ad1-502a93f10a5f",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "125",
+   "style": "short",
+   "question": "How do I quickly find pages?",
+   "gold_id": "98d21d12-6a4c-5a0c-8f0d-186fe0984386",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "126",
+   "style": "long",
+   "question": "I want to search for reports fast, is there a keyboard shortcut for that?",
+   "gold_id": "98d21d12-6a4c-5a0c-8f0d-186fe0984386",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "127",
+   "style": "short",
+   "question": "What is the difference between Home and Analytics?",
+   "gold_id": "97cf8c01-2e94-5c24-865e-c8734e62b213",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "128",
+   "style": "long",
+   "question": "I am confused about when to use Home versus Analytics for checking performance.",
+   "gold_id": "97cf8c01-2e94-5c24-865e-c8734e62b213",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "129",
+   "style": "short",
+   "question": "How do I switch between agents?",
+   "gold_id": "9ebf77b9-d691-5ad0-b039-4df43e7bb014",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "130",
+   "style": "long",
+   "question": "I need to change which agent I am working on, where is that control?",
+   "gold_id": "9ebf77b9-d691-5ad0-b039-4df43e7bb014",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "131",
+   "style": "short",
+   "question": "Why can't I delete that voice?",
+   "gold_id": "3aa8011c-a59a-51f2-ac76-bffa67aa5d39",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "132",
+   "style": "long",
+   "question": "I tried to remove a voice but got a warning about agents, why is that?",
+   "gold_id": "3aa8011c-a59a-51f2-ac76-bffa67aa5d39",
+   "gold_page": "https://docs.bidirection.ai/console-tour"
+  },
+  {
+   "qid": "133",
+   "style": "short",
+   "question": "How do I skip the AI setup?",
+   "gold_id": "46b9b884-5d8e-505f-a1f1-7f2cb6cf213e",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "134",
+   "style": "long",
+   "question": "I want to skip the AI description and set everything up manually instead.",
+   "gold_id": "46b9b884-5d8e-505f-a1f1-7f2cb6cf213e",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "135",
+   "style": "short",
+   "question": "What does the AI draft include?",
+   "gold_id": "c65781fb-bd69-5cfa-9f7f-712f8e8b40f3",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "136",
+   "style": "long",
+   "question": "When I use AI to draft my agent, what specific parts does it write for me?",
+   "gold_id": "c65781fb-bd69-5cfa-9f7f-712f8e8b40f3",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "137",
+   "style": "short",
+   "question": "Why is screen-share off by default?",
+   "gold_id": "956d47f0-65ca-5591-876a-6ff0d27d2043",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "138",
+   "style": "long",
+   "question": "I noticed full screen-share is disabled; why is that a heavier permission to request?",
+   "gold_id": "956d47f0-65ca-5591-876a-6ff0d27d2043",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "139",
+   "style": "short",
+   "question": "What is the only required step?",
+   "gold_id": "9bc8aa1d-8943-521b-a7f5-f50c35671215",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "140",
+   "style": "long",
+   "question": "I am moving fast through the composer; which single field is actually mandatory?",
+   "gold_id": "9bc8aa1d-8943-521b-a7f5-f50c35671215",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "141",
+   "style": "short",
+   "question": "How do I set the greeting?",
+   "gold_id": "c64ffc1f-cffa-5671-a1a9-19376844d131",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "142",
+   "style": "long",
+   "question": "Where in the voice settings do I configure the very first line the visitor hears?",
+   "gold_id": "c64ffc1f-cffa-5671-a1a9-19376844d131",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "143",
+   "style": "short",
+   "question": "What integrations can I attach here?",
+   "gold_id": "1ba75d5d-2db6-57bd-af39-ddae8ded068f",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "144",
+   "style": "long",
+   "question": "Which specific tools or systems can I connect to this agent during the fourth step?",
+   "gold_id": "1ba75d5d-2db6-57bd-af39-ddae8ded068f",
+   "gold_page": "https://docs.bidirection.ai/create-your-first-agent"
+  },
+  {
+   "qid": "145",
+   "style": "short",
+   "question": "What if my desired name is taken?",
+   "gold_id": "918662f1-166d-5c5d-8ba0-88c20b953e70",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "146",
+   "style": "long",
+   "question": "The name I wanted is already used, but I want to keep the display name the same.",
+   "gold_id": "918662f1-166d-5c5d-8ba0-88c20b953e70",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "147",
+   "style": "short",
+   "question": "Why am I stuck on a waiting screen?",
+   "gold_id": "c1ea9454-d669-5c9f-b2c9-93dea4ea6f56",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "148",
+   "style": "long",
+   "question": "I signed up but I am seeing a waiting screen instead of the dashboard.",
+   "gold_id": "c1ea9454-d669-5c9f-b2c9-93dea4ea6f56",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "149",
+   "style": "short",
+   "question": "How do I set my account password?",
+   "gold_id": "bde0a3b8-0c22-50bb-9f2f-b1a72ee43ff8",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "150",
+   "style": "long",
+   "question": "I am creating my account and need to know where to enter my password.",
+   "gold_id": "bde0a3b8-0c22-50bb-9f2f-b1a72ee43ff8",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "151",
+   "style": "short",
+   "question": "Where will my organization name appear?",
+   "gold_id": "8d651bdf-c77c-5e7c-bd87-a6b898bf612c",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "152",
+   "style": "long",
+   "question": "I am naming my company and want to know where that text shows up for users.",
+   "gold_id": "8d651bdf-c77c-5e7c-bd87-a6b898bf612c",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "153",
+   "style": "short",
+   "question": "Which part of the setup must be unique?",
+   "gold_id": "81d7ffc6-bca2-5675-a2da-f0dd0fb46a12",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "154",
+   "style": "long",
+   "question": "I am choosing a web address and need to know which specific field has to be unique.",
+   "gold_id": "81d7ffc6-bca2-5675-a2da-f0dd0fb46a12",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "155",
+   "style": "short",
+   "question": "Do I need multiple workspaces for my company?",
+   "gold_id": "58baeada-17de-5a48-9ae8-0002d730a124",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "156",
+   "style": "long",
+   "question": "I am setting up my team and wondering if I should create more than one organization.",
+   "gold_id": "58baeada-17de-5a48-9ae8-0002d730a124",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "157",
+   "style": "short",
+   "question": "What should I do after creating the org?",
+   "gold_id": "279ba8ba-b686-5d3c-9274-3e98d791003b",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "158",
+   "style": "long",
+   "question": "I just finished the setup and the system is asking me for my website address now.",
+   "gold_id": "279ba8ba-b686-5d3c-9274-3e98d791003b",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "159",
+   "style": "short",
+   "question": "How do I join an existing team?",
+   "gold_id": "291d27b1-5ce0-55fb-83b7-fee3853a0311",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "160",
+   "style": "long",
+   "question": "My colleagues already have an account and I need to know how to get access to it.",
+   "gold_id": "291d27b1-5ce0-55fb-83b7-fee3853a0311",
+   "gold_page": "https://docs.bidirection.ai/create-your-organization"
+  },
+  {
+   "qid": "161",
+   "style": "short",
+   "question": "How do I know if the script loaded?",
+   "gold_id": "ddcf7142-390a-5ede-848d-38df2f7b897e",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "162",
+   "style": "long",
+   "question": "I need to verify if the widget is actually loading on my site.",
+   "gold_id": "ddcf7142-390a-5ede-848d-38df2f7b897e",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "163",
+   "style": "short",
+   "question": "What does the published status mean exactly?",
+   "gold_id": "e2343701-0ffc-55e0-9b77-c76d8e930ea3",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "164",
+   "style": "long",
+   "question": "Can you explain what happens when I press the publish button?",
+   "gold_id": "e2343701-0ffc-55e0-9b77-c76d8e930ea3",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "165",
+   "style": "short",
+   "question": "Can I preview agents while they are paused?",
+   "gold_id": "813eea88-e07b-5e34-ae27-8f99fb625569",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "166",
+   "style": "long",
+   "question": "I want to check my draft agent before going live, is that possible?",
+   "gold_id": "813eea88-e07b-5e34-ae27-8f99fb625569",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "167",
+   "style": "short",
+   "question": "Does pausing delete my knowledge base or guardrails?",
+   "gold_id": "ee08497f-9ebe-542a-a854-aea86eed94aa",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "168",
+   "style": "long",
+   "question": "I am worried about losing my data if I pause the agent temporarily.",
+   "gold_id": "ee08497f-9ebe-542a-a854-aea86eed94aa",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "169",
+   "style": "short",
+   "question": "Will my analytics data disappear if I pause?",
+   "gold_id": "a88501a6-7567-5726-afe6-0d5108e77c17",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "170",
+   "style": "long",
+   "question": "I need to know if pausing the agent wipes out my historical metrics.",
+   "gold_id": "a88501a6-7567-5726-afe6-0d5108e77c17",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "171",
+   "style": "short",
+   "question": "What is a verified domain in this context?",
+   "gold_id": "d9aa381b-c156-530e-bbfb-a0e782fe4066",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "172",
+   "style": "long",
+   "question": "I am setting up the launch control and need to verify my host.",
+   "gold_id": "d9aa381b-c156-530e-bbfb-a0e782fe4066",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "173",
+   "style": "short",
+   "question": "How do I interpret the launch control segments?",
+   "gold_id": "2c7c0e27-faa5-5598-a57e-224dc06882ff",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "174",
+   "style": "long",
+   "question": "I am looking at the dashboard and want to understand what the labels mean.",
+   "gold_id": "2c7c0e27-faa5-5598-a57e-224dc06882ff",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "175",
+   "style": "short",
+   "question": "Does installing the script make my agent live?",
+   "gold_id": "a8244b4d-ed7a-5025-abc1-acf2abf03b68",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "176",
+   "style": "long",
+   "question": "I just installed the code and want to know if visitors can see it now.",
+   "gold_id": "a8244b4d-ed7a-5025-abc1-acf2abf03b68",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "177",
+   "style": "short",
+   "question": "Where do I find the make it live button?",
+   "gold_id": "676eb895-dd5e-559d-9753-2eb17299a318",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "178",
+   "style": "long",
+   "question": "I have installed the script and now I need to actually launch the agent.",
+   "gold_id": "676eb895-dd5e-559d-9753-2eb17299a318",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "179",
+   "style": "short",
+   "question": "What are the three segments in the header?",
+   "gold_id": "0bacecdb-eb42-502c-8492-8ebdbc3732e5",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "180",
+   "style": "long",
+   "question": "I see a capsule with three parts on my agent page, what do they show?",
+   "gold_id": "0bacecdb-eb42-502c-8492-8ebdbc3732e5",
+   "gold_page": "https://docs.bidirection.ai/go-live-pause-unpublish"
+  },
+  {
+   "qid": "181",
+   "style": "short",
+   "question": "When does the call suggest trigger?",
+   "gold_id": "49332c54-1c3d-52eb-a2aa-878a7a6c8277",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "182",
+   "style": "long",
+   "question": "I want the agent to appear when my chatbot hands off a user, how do I do that?",
+   "gold_id": "49332c54-1c3d-52eb-a2aa-878a7a6c8277",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "183",
+   "style": "short",
+   "question": "Where do I find the floating button?",
+   "gold_id": "f8d1d4d5-6291-5992-a8f2-d64e0b8a6c30",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "184",
+   "style": "long",
+   "question": "I need to enable the floating button option on my website, where is that setting?",
+   "gold_id": "f8d1d4d5-6291-5992-a8f2-d64e0b8a6c30",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "185",
+   "style": "short",
+   "question": "How do I get the button code?",
+   "gold_id": "127dd60d-4dd1-57b4-b036-0ea839a463a8",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "186",
+   "style": "long",
+   "question": "I am building a custom button in React and need the specific code snippet to copy.",
+   "gold_id": "127dd60d-4dd1-57b4-b036-0ea839a463a8",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "187",
+   "style": "short",
+   "question": "What does the floating button status mean?",
+   "gold_id": "d7b70213-6254-5329-be79-6e4513040d42",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "188",
+   "style": "long",
+   "question": "I see a status indicator on my dashboard, what information is it actually showing me about the widget?",
+   "gold_id": "d7b70213-6254-5329-be79-6e4513040d42",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "189",
+   "style": "short",
+   "question": "What does the custom button status show?",
+   "gold_id": "b7b3e1db-829c-5b42-8132-a393f4c297c1",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "190",
+   "style": "long",
+   "question": "I set up my own button, so what does the status indicator track for that specific implementation?",
+   "gold_id": "b7b3e1db-829c-5b42-8132-a393f4c297c1",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "191",
+   "style": "short",
+   "question": "Why is my script not being seen?",
+   "gold_id": "23f73d1b-d209-5e89-a1c3-61370e67aa11",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "192",
+   "style": "long",
+   "question": "The status says not seen yet, could a consent banner or blocker be preventing the script from running?",
+   "gold_id": "23f73d1b-d209-5e89-a1c3-61370e67aa11",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "193",
+   "style": "short",
+   "question": "Where do I find help link setup?",
+   "gold_id": "c49d6ba1-c7a1-5bbe-be9b-427167f48650",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "194",
+   "style": "long",
+   "question": "This page covers two methods, but I need to know where to look for the other two options.",
+   "gold_id": "c49d6ba1-c7a1-5bbe-be9b-427167f48650",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "195",
+   "style": "short",
+   "question": "Does the code track user typing?",
+   "gold_id": "e38a9350-0366-588d-b600-9c62dfed5f2b",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "196",
+   "style": "long",
+   "question": "I am worried about privacy, so does the script record page views, clicks, or what visitors type?",
+   "gold_id": "e38a9350-0366-588d-b600-9c62dfed5f2b",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "197",
+   "style": "short",
+   "question": "Can I install before launching the agent?",
+   "gold_id": "dda4aaf2-baed-5e1c-bec9-a97298460022",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "198",
+   "style": "long",
+   "question": "I want to deploy the code now but keep the agent hidden, so can I install it before going live?",
+   "gold_id": "dda4aaf2-baed-5e1c-bec9-a97298460022",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "199",
+   "style": "short",
+   "question": "What should I do if it stays gray?",
+   "gold_id": "a35ee510-bd00-50d8-bf3c-94b963ae3dce",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "200",
+   "style": "long",
+   "question": "I loaded the page but the status never turns green, so what is the first thing I should check?",
+   "gold_id": "a35ee510-bd00-50d8-bf3c-94b963ae3dce",
+   "gold_page": "https://docs.bidirection.ai/install-the-script"
+  },
+  {
+   "qid": "201",
+   "style": "short",
+   "question": "The invite link has expired?",
+   "gold_id": "88b078ee-4675-50f6-92a2-6fe959797adc",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "202",
+   "style": "long",
+   "question": "My team member says the link isn't working anymore, what do I do?",
+   "gold_id": "88b078ee-4675-50f6-92a2-6fe959797adc",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "203",
+   "style": "short",
+   "question": "How do I assign teams?",
+   "gold_id": "20f6034c-08ba-5f05-a42e-4d96fdfdc934",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "204",
+   "style": "long",
+   "question": "I want my new hire to join a specific team, how do I do that?",
+   "gold_id": "20f6034c-08ba-5f05-a42e-4d96fdfdc934",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "205",
+   "style": "short",
+   "question": "Is the email actually being sent?",
+   "gold_id": "9fdb0715-951b-5828-b78a-0f5411d5c289",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "206",
+   "style": "long",
+   "question": "I clicked send but I am worried it might not have gone through yet.",
+   "gold_id": "9fdb0715-951b-5828-b78a-0f5411d5c289",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "207",
+   "style": "short",
+   "question": "Did I copy the link?",
+   "gold_id": "0acdd543-101c-53f6-b789-4cbf7a6b6587",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "208",
+   "style": "long",
+   "question": "I tried to share the invite but I am not sure if it copied correctly.",
+   "gold_id": "0acdd543-101c-53f6-b789-4cbf7a6b6587",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "209",
+   "style": "short",
+   "question": "The email failed to send?",
+   "gold_id": "456e71a4-69e4-552b-985f-27bdd2df4fad",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "210",
+   "style": "long",
+   "question": "I tried to invite someone via email but it failed, what is the alternative?",
+   "gold_id": "456e71a4-69e4-552b-985f-27bdd2df4fad",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "211",
+   "style": "short",
+   "question": "Which role should I choose?",
+   "gold_id": "48bc77f7-065c-5c48-a9cf-d1a112d290de",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "212",
+   "style": "long",
+   "question": "I am setting up a new user and I need to pick the right role.",
+   "gold_id": "48bc77f7-065c-5c48-a9cf-d1a112d290de",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "213",
+   "style": "short",
+   "question": "Who is allowed to invite?",
+   "gold_id": "e1fa3215-cf01-5042-a06b-640f03326075",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "214",
+   "style": "long",
+   "question": "I am a Support Manager, can I invite other agents to our workspace?",
+   "gold_id": "e1fa3215-cf01-5042-a06b-640f03326075",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "215",
+   "style": "short",
+   "question": "What can a Viewer actually do?",
+   "gold_id": "072f4d0a-70dd-5ab7-84c4-5b085693d4d4",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "216",
+   "style": "long",
+   "question": "I want to give someone read-only access, but I am not sure about their limits.",
+   "gold_id": "072f4d0a-70dd-5ab7-84c4-5b085693d4d4",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "217",
+   "style": "short",
+   "question": "How long do invite links last?",
+   "gold_id": "b2134720-acd8-5b63-ac95-510a67101283",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "218",
+   "style": "long",
+   "question": "I sent an invite yesterday but nobody opened it, is it still valid?",
+   "gold_id": "b2134720-acd8-5b63-ac95-510a67101283",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "219",
+   "style": "short",
+   "question": "How do I remove a user?",
+   "gold_id": "ded1fc71-a639-5047-8431-2c1546af5bf7",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "220",
+   "style": "long",
+   "question": "I need to fire an employee immediately, how do I cut off their access?",
+   "gold_id": "ded1fc71-a639-5047-8431-2c1546af5bf7",
+   "gold_page": "https://docs.bidirection.ai/invite-your-team"
+  },
+  {
+   "qid": "221",
+   "style": "short",
+   "question": "How do I test for made-up answers?",
+   "gold_id": "3e0fbdb9-7fb5-59ac-b79c-194deedcebf1",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "222",
+   "style": "long",
+   "question": "I want to check if my agent hallucinates when I ask it something my business doesn't actually offer.",
+   "gold_id": "3e0fbdb9-7fb5-59ac-b79c-194deedcebf1",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "223",
+   "style": "short",
+   "question": "How do I test my discount guardrails?",
+   "gold_id": "e6179b39-44dc-5e47-a601-be81ef2328d5",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "224",
+   "style": "long",
+   "question": "I need to verify that the agent refuses to offer unauthorized discounts before I launch it.",
+   "gold_id": "e6179b39-44dc-5e47-a601-be81ef2328d5",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "225",
+   "style": "short",
+   "question": "Does the agent handle caller interruptions well?",
+   "gold_id": "7cb1bc81-434c-51ab-9137-145203de16aa",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "226",
+   "style": "long",
+   "question": "I want to see if the system stays on track when I talk over it mid-sentence like a real person would.",
+   "gold_id": "7cb1bc81-434c-51ab-9137-145203de16aa",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "227",
+   "style": "short",
+   "question": "What pricing questions should I test first?",
+   "gold_id": "2bd7524e-2862-5bd5-bd0f-7208d7d0263b",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "228",
+   "style": "long",
+   "question": "My website pricing page is confusing, so I want to ask the agent those tricky questions to see how it responds.",
+   "gold_id": "2bd7524e-2862-5bd5-bd0f-7208d7d0263b",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "229",
+   "style": "short",
+   "question": "How do I test contradictory site info?",
+   "gold_id": "cbcc0705-d703-5617-ab9a-49d72423e81b",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "230",
+   "style": "long",
+   "question": "My website has conflicting information on one topic, so I want to check if the agent picks a side or holds firm.",
+   "gold_id": "cbcc0705-d703-5617-ab9a-49d72423e81b",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "231",
+   "style": "short",
+   "question": "Is previewing the best pre-launch test?",
+   "gold_id": "a1bacbb4-ff21-585c-9ea2-45bfd21b1bfb",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "232",
+   "style": "long",
+   "question": "I am getting ready to go live and want to know if rehearsing a real call in preview is the most useful step.",
+   "gold_id": "a1bacbb4-ff21-585c-9ea2-45bfd21b1bfb",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "233",
+   "style": "short",
+   "question": "Where do I fix wrong agent answers?",
+   "gold_id": "86b78cf6-0c9f-51e3-b02e-4fd382610618",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "234",
+   "style": "long",
+   "question": "The agent gave me an incorrect response during testing, so where should I look to find and fix the root cause?",
+   "gold_id": "86b78cf6-0c9f-51e3-b02e-4fd382610618",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "235",
+   "style": "short",
+   "question": "How do I open the agent preview?",
+   "gold_id": "e3ec1470-6c87-596d-8849-c6957158a171",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "236",
+   "style": "long",
+   "question": "I want to test my draft agent now, but I am not sure where to click in the interface to start the preview.",
+   "gold_id": "e3ec1470-6c87-596d-8849-c6957158a171",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "237",
+   "style": "short",
+   "question": "Do preview calls affect my analytics?",
+   "gold_id": "e9e8d9d1-181f-57f5-85da-3abfd457b1de",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "238",
+   "style": "long",
+   "question": "I plan to test the agent many times, but I am worried that these rehearsals will pollute my actual performance metrics.",
+   "gold_id": "e9e8d9d1-181f-57f5-85da-3abfd457b1de",
+   "gold_page": "https://docs.bidirection.ai/preview-your-agent"
+  },
+  {
+   "qid": "239",
+   "style": "short",
+   "question": "Do I need a unique name?",
+   "gold_id": "02b0f6fb-751f-5041-a621-f76c2a1c8f97",
+   "gold_page": "https://docs.bidirection.ai/quickstart"
+  },
+  {
+   "qid": "240",
+   "style": "long",
+   "question": "I'm setting up my company and wondering if the organization name has to be unique.",
+   "gold_id": "02b0f6fb-751f-5041-a621-f76c2a1c8f97",
+   "gold_page": "https://docs.bidirection.ai/quickstart"
+  },
+  {
+   "qid": "241",
+   "style": "short",
+   "question": "Can I leave the scan running?",
+   "gold_id": "5c907c1c-5a5e-5cf0-81aa-56edb58b7a45",
+   "gold_page": "https://docs.bidirection.ai/quickstart"
+  },
+  {
+   "qid": "242",
+   "style": "long",
+   "question": "I started the website scan but need to do other things, can I just leave it?",
+   "gold_id": "5c907c1c-5a5e-5cf0-81aa-56edb58b7a45",
+   "gold_page": "https://docs.bidirection.ai/quickstart"
+  },
+  {
+   "qid": "243",
+   "style": "short",
+   "question": "How do I test my agent?",
+   "gold_id": "e30f42d7-fe67-50d0-86c1-d006e1a53039",
+   "gold_page": "https://docs.bidirection.ai/quickstart"
+  },
+  {
+   "qid": "244",
+   "style": "long",
+   "question": "I want to chat with my agent before customers see it, where do I find that?",
+   "gold_id": "e30f42d7-fe67-50d0-86c1-d006e1a53039",
+   "gold_page": "https://docs.bidirection.ai/quickstart"
+  },
+  {
+   "qid": "245",
+   "style": "short",
+   "question": "How do I verify my domain?",
+   "gold_id": "a59fa112-96ee-5300-a92a-2e28842019d0",
+   "gold_page": "https://docs.bidirection.ai/quickstart"
+  },
+  {
+   "qid": "246",
+   "style": "long",
+   "question": "I am trying to connect my website but I need to prove I own the domain.",
+   "gold_id": "a59fa112-96ee-5300-a92a-2e28842019d0",
+   "gold_page": "https://docs.bidirection.ai/quickstart"
+  },
+  {
+   "qid": "247",
+   "style": "short",
+   "question": "Who is online right now?",
+   "gold_id": "6a568ca3-1dc2-56c0-8f1b-6f08660308f4",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "248",
+   "style": "long",
+   "question": "I want to see which visitors are currently active on my site.",
+   "gold_id": "6a568ca3-1dc2-56c0-8f1b-6f08660308f4",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "249",
+   "style": "short",
+   "question": "What happened in recent chats?",
+   "gold_id": "71c1e13d-83f1-5b0c-a05c-862f4bb0e519",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "250",
+   "style": "long",
+   "question": "Can I check the results of the last few customer conversations?",
+   "gold_id": "71c1e13d-83f1-5b0c-a05c-862f4bb0e519",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "251",
+   "style": "short",
+   "question": "What tasks need my attention?",
+   "gold_id": "70830d4b-385d-5c37-b80a-aa41d2cb622d",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "252",
+   "style": "long",
+   "question": "How do I find decisions that are waiting for me to act on?",
+   "gold_id": "70830d4b-385d-5c37-b80a-aa41d2cb622d",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "253",
+   "style": "short",
+   "question": "How do I see weekly trends?",
+   "gold_id": "a8deb7eb-4e3e-5784-9ba3-a90df541e2de",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "254",
+   "style": "long",
+   "question": "I want to compare this week's metrics against the previous seven days.",
+   "gold_id": "a8deb7eb-4e3e-5784-9ba3-a90df541e2de",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "255",
+   "style": "short",
+   "question": "Can I compare day by day?",
+   "gold_id": "e1cb5b69-e89f-5d08-a9e8-28e111cc3143",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "256",
+   "style": "long",
+   "question": "Is there a chart showing daily performance for this week versus last week?",
+   "gold_id": "e1cb5b69-e89f-5d08-a9e8-28e111cc3143",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "257",
+   "style": "short",
+   "question": "Where do users drop off?",
+   "gold_id": "db6240fb-5676-5475-8a68-b7d67218fc0f",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "258",
+   "style": "long",
+   "question": "How does the funnel show where I am losing people in the process?",
+   "gold_id": "db6240fb-5676-5475-8a68-b7d67218fc0f",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "259",
+   "style": "short",
+   "question": "Why do my numbers look wrong?",
+   "gold_id": "5746e251-4769-576c-ba71-3459a8df473f",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "260",
+   "style": "long",
+   "question": "I have multiple agents, but the total counts don't seem to add up correctly.",
+   "gold_id": "5746e251-4769-576c-ba71-3459a8df473f",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "261",
+   "style": "short",
+   "question": "Can I copy data from charts?",
+   "gold_id": "9681b3c4-5d21-5aef-bc2e-579303c4fb82",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "262",
+   "style": "long",
+   "question": "I need to extract exact values from the analytics charts for a report.",
+   "gold_id": "9681b3c4-5d21-5aef-bc2e-579303c4fb82",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "263",
+   "style": "short",
+   "question": "Does it track revenue directly?",
+   "gold_id": "d5c7ca19-ff1c-5b28-8d73-3ae475809588",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "264",
+   "style": "long",
+   "question": "I am trying to attribute sales revenue, but I cannot find that option.",
+   "gold_id": "d5c7ca19-ff1c-5b28-8d73-3ae475809588",
+   "gold_page": "https://docs.bidirection.ai/read-your-metrics"
+  },
+  {
+   "qid": "265",
+   "style": "short",
+   "question": "Does it sync with Zendesk?",
+   "gold_id": "317656d1-64c7-5de6-b951-e7de5beec376",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "266",
+   "style": "long",
+   "question": "Can the system automatically file tickets in my Zendesk account?",
+   "gold_id": "317656d1-64c7-5de6-b951-e7de5beec376",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "267",
+   "style": "short",
+   "question": "Who gets these notification emails?",
+   "gold_id": "f534d883-24d0-5aeb-8aa0-f1c1a2525165",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "268",
+   "style": "long",
+   "question": "How do I choose which team members receive the lead alerts?",
+   "gold_id": "f534d883-24d0-5aeb-8aa0-f1c1a2525165",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "269",
+   "style": "short",
+   "question": "How often are alerts sent?",
+   "gold_id": "66cba449-aaf3-50a1-b091-2dab05e84c37",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "270",
+   "style": "long",
+   "question": "Can I get an email notification every time a new lead comes in?",
+   "gold_id": "66cba449-aaf3-50a1-b091-2dab05e84c37",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "271",
+   "style": "short",
+   "question": "Does it support custom webhooks?",
+   "gold_id": "76484313-e1c6-5e1b-badb-0b946ce596e4",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "272",
+   "style": "long",
+   "question": "Can I send conversation data to my own server using webhooks?",
+   "gold_id": "76484313-e1c6-5e1b-badb-0b946ce596e4",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "273",
+   "style": "short",
+   "question": "What does the lead score mean?",
+   "gold_id": "bc031697-b565-5abe-8edb-253bf3466bbf",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "274",
+   "style": "long",
+   "question": "How do I interpret the different lead bands and their scores?",
+   "gold_id": "bc031697-b565-5abe-8edb-253bf3466bbf",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "275",
+   "style": "short",
+   "question": "Are notifications on by default?",
+   "gold_id": "f0be15cf-7849-5710-b196-77849218b297",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "276",
+   "style": "long",
+   "question": "I need to enable lead emails, where do I find that setting?",
+   "gold_id": "f0be15cf-7849-5710-b196-77849218b297",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "277",
+   "style": "short",
+   "question": "What is an open escalation?",
+   "gold_id": "c085792a-5695-5ebc-b22d-c3f60dc49aa4",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "278",
+   "style": "long",
+   "question": "How do I find calls that were handed off but not handled yet?",
+   "gold_id": "c085792a-5695-5ebc-b22d-c3f60dc49aa4",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "279",
+   "style": "short",
+   "question": "Why did this call have no lead?",
+   "gold_id": "1613c008-2a10-5c01-9206-69a6f102e7c2",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "280",
+   "style": "long",
+   "question": "I see a conversation but no lead, why is that happening?",
+   "gold_id": "1613c008-2a10-5c01-9206-69a6f102e7c2",
+   "gold_page": "https://docs.bidirection.ai/review-leads-and-escalations"
+  },
+  {
+   "qid": "281",
+   "style": "short",
+   "question": "Do I need to add https?",
+   "gold_id": "586cd4ac-59d8-5a9c-a0d1-a16a540c1a69",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "282",
+   "style": "long",
+   "question": "When I type in my address, do I have to include the https part?",
+   "gold_id": "586cd4ac-59d8-5a9c-a0d1-a16a540c1a69",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "283",
+   "style": "short",
+   "question": "What does Add only actually do?",
+   "gold_id": "01faaef6-cd74-5f6a-99b2-15f864bf0395",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "284",
+   "style": "long",
+   "question": "I want to save this site without using up a crawl, which button do I press?",
+   "gold_id": "01faaef6-cd74-5f6a-99b2-15f864bf0395",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "285",
+   "style": "short",
+   "question": "Can I close the page while scanning?",
+   "gold_id": "11b70d06-019b-5afe-9c7f-34815f57c292",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "286",
+   "style": "long",
+   "question": "I need to step away, will I lose progress if I close this tab now?",
+   "gold_id": "11b70d06-019b-5afe-9c7f-34815f57c292",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "287",
+   "style": "short",
+   "question": "How do I start my first scan?",
+   "gold_id": "e37d21e9-6733-5904-b3a5-2acad0eff269",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "288",
+   "style": "long",
+   "question": "I am new here, where do I click to run the very first scan?",
+   "gold_id": "e37d21e9-6733-5904-b3a5-2acad0eff269",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "289",
+   "style": "short",
+   "question": "Why is the agent stuck on this?",
+   "gold_id": "77d03c9e-3850-52aa-8e89-6125081d2f10",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "290",
+   "style": "long",
+   "question": "My pages have different refund rules, why isn't the system just picking one?",
+   "gold_id": "77d03c9e-3850-52aa-8e89-6125081d2f10",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "291",
+   "style": "short",
+   "question": "Will re-scanning delete my old data?",
+   "gold_id": "837a1617-c38f-59d9-8d9f-d487e659d3be",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "292",
+   "style": "long",
+   "question": "I updated my site, can I scan it again without losing the previous information?",
+   "gold_id": "837a1617-c38f-59d9-8d9f-d487e659d3be",
+   "gold_page": "https://docs.bidirection.ai/scan-your-website"
+  },
+  {
+   "qid": "293",
+   "style": "short",
+   "question": "Is this draft from my site?",
+   "gold_id": "8e664a47-50c4-54a5-8d66-9e69591987a4",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "294",
+   "style": "long",
+   "question": "I want to know if this suggestion was based on my actual business data.",
+   "gold_id": "8e664a47-50c4-54a5-8d66-9e69591987a4",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "295",
+   "style": "short",
+   "question": "How do I block price quotes?",
+   "gold_id": "97d54c83-af9a-5b30-96ec-411293cb2df4",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "296",
+   "style": "long",
+   "question": "I need to stop the bot from guessing prices that are not in my catalog.",
+   "gold_id": "97d54c83-af9a-5b30-96ec-411293cb2df4",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "297",
+   "style": "short",
+   "question": "How do I list forbidden actions?",
+   "gold_id": "129ab12a-5a60-5f97-baff-4f4f3d2500bd",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "298",
+   "style": "long",
+   "question": "I am trying to define specific things the agent must absolutely never do.",
+   "gold_id": "129ab12a-5a60-5f97-baff-4f4f3d2500bd",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "299",
+   "style": "short",
+   "question": "Why is this a generic default?",
+   "gold_id": "796e72b1-029a-58c1-b4fa-10c51f0f6ad9",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "300",
+   "style": "long",
+   "question": "The AI couldn't scan my data, so I need to know if this is just a standard starting point.",
+   "gold_id": "796e72b1-029a-58c1-b4fa-10c51f0f6ad9",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "301",
+   "style": "short",
+   "question": "When does the bot call a human?",
+   "gold_id": "5fdc91f1-1a0a-5f85-a9ed-72440f155f30",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "302",
+   "style": "long",
+   "question": "I want to set up rules for when the system should hand off to a real person.",
+   "gold_id": "5fdc91f1-1a0a-5f85-a9ed-72440f155f30",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "303",
+   "style": "short",
+   "question": "Do I need to save changes?",
+   "gold_id": "5db3349e-0b59-5341-ad11-d3488ce10f0f",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "304",
+   "style": "long",
+   "question": "I am editing an existing policy and wondering if I have to click save to apply it.",
+   "gold_id": "5db3349e-0b59-5341-ad11-d3488ce10f0f",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "305",
+   "style": "short",
+   "question": "How do I use the AI suggest button?",
+   "gold_id": "0307a0b3-12cb-5f3c-9b08-5e8abf2cd318",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "306",
+   "style": "long",
+   "question": "I found the suggest button and want to know what happens when I click it to draft a policy.",
+   "gold_id": "0307a0b3-12cb-5f3c-9b08-5e8abf2cd318",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "307",
+   "style": "short",
+   "question": "Can one policy cover multiple agents?",
+   "gold_id": "8a9a593a-a384-5723-b4be-df47fd4bd195",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "308",
+   "style": "long",
+   "question": "I am setting up guardrails and want to know if I can apply a single rule to many different agents.",
+   "gold_id": "8a9a593a-a384-5723-b4be-df47fd4bd195",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "309",
+   "style": "short",
+   "question": "How do I attach a new policy?",
+   "gold_id": "2acc4c0f-a5bc-5698-afc6-4ff767a4244e",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "310",
+   "style": "long",
+   "question": "I created a policy but it is not working, so I need to know how to link it to an agent.",
+   "gold_id": "2acc4c0f-a5bc-5698-afc6-4ff767a4244e",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "311",
+   "style": "short",
+   "question": "Should I trust the AI suggestion blindly?",
+   "gold_id": "31564242-8944-5035-867e-1c5bbb9b9753",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "312",
+   "style": "long",
+   "question": "I am about to save the AI draft and want to know if I should check every line first.",
+   "gold_id": "31564242-8944-5035-867e-1c5bbb9b9753",
+   "gold_page": "https://docs.bidirection.ai/set-guardrails"
+  },
+  {
+   "qid": "313",
+   "style": "short",
+   "question": "Can I use Markdown for the link?",
+   "gold_id": "b12cb324-75d2-546c-af4a-5b84b3cc7a39",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "314",
+   "style": "long",
+   "question": "I'm adding this to our GitHub docs, does it support Markdown formatting?",
+   "gold_id": "b12cb324-75d2-546c-af4a-5b84b3cc7a39",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "315",
+   "style": "short",
+   "question": "How do I remove a shared link?",
+   "gold_id": "d3a0372f-9b0a-5051-a76a-5be40cf5ea84",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "316",
+   "style": "long",
+   "question": "I accidentally shared the link publicly, how can I deactivate it now?",
+   "gold_id": "d3a0372f-9b0a-5051-a76a-5be40cf5ea84",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "317",
+   "style": "short",
+   "question": "What iOS settings need changing for this?",
+   "gold_id": "58026d40-00cb-521d-9158-eba092a2283b",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "318",
+   "style": "long",
+   "question": "My iPhone app isn't letting me use the mic, what do I need in Info.plist?",
+   "gold_id": "58026d40-00cb-521d-9158-eba092a2283b",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "319",
+   "style": "short",
+   "question": "Do you provide an HTML button option?",
+   "gold_id": "fc2e0788-5a12-55c0-b4cf-8b43187b2229",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "320",
+   "style": "long",
+   "question": "I want to add a clickable button to my email, do you have an HTML snippet?",
+   "gold_id": "fc2e0788-5a12-55c0-b4cf-8b43187b2229",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "321",
+   "style": "short",
+   "question": "Can I put it in my email signature?",
+   "gold_id": "b21e4ce3-03cb-5bae-b8f2-fa467b150830",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "322",
+   "style": "long",
+   "question": "I want to add this to my Outlook signature, is there a simple text version?",
+   "gold_id": "b21e4ce3-03cb-5bae-b8f2-fa467b150830",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "323",
+   "style": "short",
+   "question": "What happens when I turn the link off?",
+   "gold_id": "65cacf70-4f9d-56d0-a2ee-4b28f1c89179",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "324",
+   "style": "long",
+   "question": "If I disable the link, will visitors see an error or a specific message?",
+   "gold_id": "65cacf70-4f9d-56d0-a2ee-4b28f1c89179",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "325",
+   "style": "short",
+   "question": "Where can I see how many people used it?",
+   "gold_id": "d8d6c047-66a1-599e-8951-7b0bf53ec84a",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "326",
+   "style": "long",
+   "question": "I want to check the usage stats, where do I find the number of weekly visits?",
+   "gold_id": "d8d6c047-66a1-599e-8951-7b0bf53ec84a",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "327",
+   "style": "short",
+   "question": "What exactly is a shareable help link?",
+   "gold_id": "3e77ad05-ca90-5401-8b77-3612d53c773f",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "328",
+   "style": "long",
+   "question": "I'm new to this, can you explain what a help link is and where I can use it?",
+   "gold_id": "3e77ad05-ca90-5401-8b77-3612d53c773f",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "329",
+   "style": "short",
+   "question": "What does the help page look like?",
+   "gold_id": "a30b9e46-ecb4-5497-a20d-e9b8936373dc",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "330",
+   "style": "long",
+   "question": "Before I share it, what information and buttons will my customers see on the page?",
+   "gold_id": "a30b9e46-ecb4-5497-a20d-e9b8936373dc",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "331",
+   "style": "short",
+   "question": "Do I need a special SDK for mobile?",
+   "gold_id": "f913576f-e3db-558c-82a2-42ce6ba2c501",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "332",
+   "style": "long",
+   "question": "I'm building an iOS app, do I need to install a specific SDK or just use a WebView?",
+   "gold_id": "f913576f-e3db-558c-82a2-42ce6ba2c501",
+   "gold_page": "https://docs.bidirection.ai/share-a-help-link"
+  },
+  {
+   "qid": "333",
+   "style": "short",
+   "question": "What do I put for the OIDC issuer?",
+   "gold_id": "2e921d95-52ea-524e-be91-fa4cebd5dd18",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "334",
+   "style": "long",
+   "question": "I'm filling out the OIDC details and need an example for the issuer field.",
+   "gold_id": "2e921d95-52ea-524e-be91-fa4cebd5dd18",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "335",
+   "style": "short",
+   "question": "How do I verify my domain for SSO?",
+   "gold_id": "0c9c8ac2-761e-5811-9f9e-14d1914fdadb",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "336",
+   "style": "long",
+   "question": "Before I start setting up single sign-on, what kind of DNS verification do I need?",
+   "gold_id": "0c9c8ac2-761e-5811-9f9e-14d1914fdadb",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "337",
+   "style": "short",
+   "question": "Where does the system store my SSO secret?",
+   "gold_id": "2631b5c3-b672-5e3f-b84b-560b71c65f0e",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "338",
+   "style": "long",
+   "question": "I'm worried about security, so does Bidirection keep the actual secret or just a link?",
+   "gold_id": "2631b5c3-b672-5e3f-b84b-560b71c65f0e",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "339",
+   "style": "short",
+   "question": "How do I actually turn on SSO?",
+   "gold_id": "b612c814-f35c-5987-91f1-12bfd4b2b069",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "340",
+   "style": "long",
+   "question": "I found the settings page, but which specific box do I need to check to enable it?",
+   "gold_id": "b612c814-f35c-5987-91f1-12bfd4b2b069",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "341",
+   "style": "short",
+   "question": "What is an example SAML entity ID?",
+   "gold_id": "8b17868a-b2bc-5d71-bc2e-61c5eaca33e9",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "342",
+   "style": "long",
+   "question": "I am configuring SAML 2.0 and need a sample format for the IdP entity ID.",
+   "gold_id": "8b17868a-b2bc-5d71-bc2e-61c5eaca33e9",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "343",
+   "style": "short",
+   "question": "Which protocol should I pick for Okta?",
+   "gold_id": "a1b53447-ff8a-5f35-936a-679b6d8f329b",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "344",
+   "style": "long",
+   "question": "I'm using an enterprise identity provider like Okta, so should I choose SAML or OIDC?",
+   "gold_id": "a1b53447-ff8a-5f35-936a-679b6d8f329b",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "345",
+   "style": "short",
+   "question": "Do I need to invite users first?",
+   "gold_id": "43f1ecad-62a8-5e15-ab44-d3676c15e542",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "346",
+   "style": "long",
+   "question": "If I turn on SSO, will my team members automatically get access to the workspace?",
+   "gold_id": "43f1ecad-62a8-5e15-ab44-d3676c15e542",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "347",
+   "style": "short",
+   "question": "Who is allowed to set up SSO?",
+   "gold_id": "0a59be4b-369d-5525-b04e-03d8900b46c3",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "348",
+   "style": "long",
+   "question": "I'm trying to configure single sign-on for our team, but I can't find the option in my account.",
+   "gold_id": "0a59be4b-369d-5525-b04e-03d8900b46c3",
+   "gold_page": "https://docs.bidirection.ai/single-sign-on"
+  },
+  {
+   "qid": "349",
+   "style": "short",
+   "question": "Can I share a domain?",
+   "gold_id": "0e3ffb62-18d9-5ce0-bc12-72b7a620df7b",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "350",
+   "style": "long",
+   "question": "I need to know if I can link my main domain to multiple agents.",
+   "gold_id": "0e3ffb62-18d9-5ce0-bc12-72b7a620df7b",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "351",
+   "style": "short",
+   "question": "How do I add a new domain?",
+   "gold_id": "5ef9ffc7-c1b5-5cd4-bf8b-6e0c9cc3fdd0",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "352",
+   "style": "long",
+   "question": "I want to set up a second domain for a different agent I am creating.",
+   "gold_id": "5ef9ffc7-c1b5-5cd4-bf8b-6e0c9cc3fdd0",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "353",
+   "style": "short",
+   "question": "Why did my agent stop working?",
+   "gold_id": "dbb427f9-872c-597e-815d-b90b3ffcc202",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "354",
+   "style": "long",
+   "question": "My agent suddenly stopped replying and I need to check if a domain was stolen.",
+   "gold_id": "dbb427f9-872c-597e-815d-b90b3ffcc202",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "355",
+   "style": "short",
+   "question": "How do I check if live?",
+   "gold_id": "299cb210-89b1-52b2-8816-ffd303aa26b1",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "356",
+   "style": "long",
+   "question": "I am worried someone paused my agent, so I want to check its current status.",
+   "gold_id": "299cb210-89b1-52b2-8816-ffd303aa26b1",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "357",
+   "style": "short",
+   "question": "What causes agents to stop?",
+   "gold_id": "821ac7b1-256a-5a96-84a2-e6ddd85ab8c4",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "358",
+   "style": "long",
+   "question": "My bot is silent and I want to know the most likely reason for this.",
+   "gold_id": "821ac7b1-256a-5a96-84a2-e6ddd85ab8c4",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "359",
+   "style": "short",
+   "question": "How do I check the tag?",
+   "gold_id": "53224f99-f60d-56cd-8ac3-842cfe41ef8c",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "360",
+   "style": "long",
+   "question": "The widget is not showing up on my site, so I need to verify the code.",
+   "gold_id": "53224f99-f60d-56cd-8ac3-842cfe41ef8c",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-agent-stopped-answering"
+  },
+  {
+   "qid": "361",
+   "style": "short",
+   "question": "Why is my URL already taken?",
+   "gold_id": "9cf607ab-ed01-5cb4-877f-be96c022426e",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-org-url-taken"
+  },
+  {
+   "qid": "362",
+   "style": "long",
+   "question": "I keep getting an error saying my workspace URL is already in use.",
+   "gold_id": "9cf607ab-ed01-5cb4-877f-be96c022426e",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-org-url-taken"
+  },
+  {
+   "qid": "363",
+   "style": "short",
+   "question": "How do I join my team?",
+   "gold_id": "dcb3b7dc-af33-50ee-ad4f-a00fea6faff6",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-org-url-taken"
+  },
+  {
+   "qid": "364",
+   "style": "long",
+   "question": "I just signed up but can't see my teammates' agents anywhere.",
+   "gold_id": "dcb3b7dc-af33-50ee-ad4f-a00fea6faff6",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-org-url-taken"
+  },
+  {
+   "qid": "365",
+   "style": "short",
+   "question": "Why is my call silent?",
+   "gold_id": "fe31adcc-e45b-5cb3-b85a-2e37d5170662",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "366",
+   "style": "long",
+   "question": "I can't hear anything during the call, is that because I'm not using secure HTTPS?",
+   "gold_id": "fe31adcc-e45b-5cb3-b85a-2e37d5170662",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "367",
+   "style": "short",
+   "question": "Something else is using the mic.",
+   "gold_id": "340af556-ef98-5514-8f89-d5ef4e654dcb",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "368",
+   "style": "long",
+   "question": "Another app might be holding the microphone, which stops my call audio from working.",
+   "gold_id": "340af556-ef98-5514-8f89-d5ef4e654dcb",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "369",
+   "style": "short",
+   "question": "Did I grant mic permission?",
+   "gold_id": "5633f5d3-9354-51c1-95e5-09765261bc29",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "370",
+   "style": "long",
+   "question": "How do I know if my browser has actually allowed microphone access for this specific site?",
+   "gold_id": "5633f5d3-9354-51c1-95e5-09765261bc29",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "371",
+   "style": "short",
+   "question": "Is my scan actually stuck?",
+   "gold_id": "dae74e7e-2ee4-5ec1-922f-5edcc8db9b78",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "372",
+   "style": "long",
+   "question": "The page counter is still going up, so should I just let the scan keep running?",
+   "gold_id": "dae74e7e-2ee4-5ec1-922f-5edcc8db9b78",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "373",
+   "style": "short",
+   "question": "Why does preview work but not live?",
+   "gold_id": "4913633d-23f4-510a-ad51-b0cd28459cee",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "374",
+   "style": "long",
+   "question": "Preview is fine but the live site fails, so is it definitely one of those three issues?",
+   "gold_id": "4913633d-23f4-510a-ad51-b0cd28459cee",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "375",
+   "style": "short",
+   "question": "Is the agent causing this?",
+   "gold_id": "074a7b5f-8c1f-5086-9778-668302c15bbb",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "376",
+   "style": "long",
+   "question": "If preview works but production doesn't, does that mean the problem is with my domain or install?",
+   "gold_id": "074a7b5f-8c1f-5086-9778-668302c15bbb",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "377",
+   "style": "short",
+   "question": "What does unauthorized error mean?",
+   "gold_id": "73adf389-4299-54da-b85f-7f9e2cf6dccd",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "378",
+   "style": "long",
+   "question": "I'm getting an unauthorized error on calls, do I need to fix something in my own console?",
+   "gold_id": "73adf389-4299-54da-b85f-7f9e2cf6dccd",
+   "gold_page": "https://docs.bidirection.ai/troubleshoot-scans-and-calls"
+  },
+  {
+   "qid": "379",
+   "style": "short",
+   "question": "Can I paste my full link?",
+   "gold_id": "0a6e3841-f30b-545a-b5b4-396d699b9c64",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "380",
+   "style": "long",
+   "question": "Is it okay to paste the entire URL from my browser?",
+   "gold_id": "0a6e3841-f30b-545a-b5b4-396d699b9c64",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "381",
+   "style": "short",
+   "question": "Where do I type the domain name?",
+   "gold_id": "b9af4dc9-8253-57d8-999a-b03c6cb8a21a",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "382",
+   "style": "long",
+   "question": "I need to enter support.acme.com, where exactly do I put it?",
+   "gold_id": "b9af4dc9-8253-57d8-999a-b03c6cb8a21a",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "383",
+   "style": "short",
+   "question": "How do I verify without DNS access?",
+   "gold_id": "8d080c98-8c62-5cf6-a510-55974c71fd49",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "384",
+   "style": "long",
+   "question": "I don't have DNS access, so how can I verify the domain?",
+   "gold_id": "8d080c98-8c62-5cf6-a510-55974c71fd49",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "385",
+   "style": "short",
+   "question": "What does the pending status mean?",
+   "gold_id": "028db168-5a63-537d-aeca-13068ef5f963",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "386",
+   "style": "long",
+   "question": "Why is my domain showing as pending instead of verified right away?",
+   "gold_id": "028db168-5a63-537d-aeca-13068ef5f963",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "387",
+   "style": "short",
+   "question": "Does removing a domain change my DNS?",
+   "gold_id": "0061d9ce-4802-5593-b361-24ed2dec7f50",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "388",
+   "style": "long",
+   "question": "If I remove a domain, will it affect my existing DNS records?",
+   "gold_id": "0061d9ce-4802-5593-b361-24ed2dec7f50",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "389",
+   "style": "short",
+   "question": "How can I prove I own a domain?",
+   "gold_id": "e9b9894b-eea2-56be-82b0-5deaf3bfc5ee",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "390",
+   "style": "long",
+   "question": "What are the specific methods available to prove domain ownership?",
+   "gold_id": "e9b9894b-eea2-56be-82b0-5deaf3bfc5ee",
+   "gold_page": "https://docs.bidirection.ai/verify-your-domain"
+  },
+  {
+   "qid": "391",
+   "style": "short",
+   "question": "Does the agent work on both my site and app?",
+   "gold_id": "53add821-782e-5362-bffc-13ab274b908f",
+   "gold_page": "https://docs.bidirection.ai/what-your-agent-does"
+  },
+  {
+   "qid": "392",
+   "style": "long",
+   "question": "I am confused if I need two different agents for my website and product.",
+   "gold_id": "53add821-782e-5362-bffc-13ab274b908f",
+   "gold_page": "https://docs.bidirection.ai/what-your-agent-does"
+  },
+  {
+   "qid": "393",
+   "style": "short",
+   "question": "Can it see what screen the user is on?",
+   "gold_id": "082cf215-6042-5a1b-8997-2c6ab92bddfe",
+   "gold_page": "https://docs.bidirection.ai/what-your-agent-does"
+  },
+  {
+   "qid": "394",
+   "style": "long",
+   "question": "I want to know if it can guide users through the current page layout.",
+   "gold_id": "082cf215-6042-5a1b-8997-2c6ab92bddfe",
+   "gold_page": "https://docs.bidirection.ai/what-your-agent-does"
+  },
+  {
+   "qid": "395",
+   "style": "short",
+   "question": "Will it ever read out my credit card number?",
+   "gold_id": "7259303e-95ea-5eb4-b78a-ecfb5d524a9d",
+   "gold_page": "https://docs.bidirection.ai/what-your-agent-does"
+  },
+  {
+   "qid": "396",
+   "style": "long",
+   "question": "I am worried about security, so does it speak sensitive account details?",
+   "gold_id": "7259303e-95ea-5eb4-b78a-ecfb5d524a9d",
+   "gold_page": "https://docs.bidirection.ai/what-your-agent-does"
+  },
+  {
+   "qid": "397",
+   "style": "short",
+   "question": "Do multiple agents share the same knowledge base?",
+   "gold_id": "3120434c-5391-51f8-9c88-766e11a662bc",
+   "gold_page": "https://docs.bidirection.ai/what-your-agent-does"
+  },
+  {
+   "qid": "398",
+   "style": "long",
+   "question": "If I create separate agents for billing and onboarding, do they share data?",
+   "gold_id": "3120434c-5391-51f8-9c88-766e11a662bc",
+   "gold_page": "https://docs.bidirection.ai/what-your-agent-does"
+  },
+  {
+   "qid": "399",
+   "style": "short",
+   "question": "How do I report a bug?",
+   "gold_id": "89135881-4dfe-5edc-a0fa-465889e993a5",
+   "gold_page": "https://docs.bidirection.ai/workspace-settings"
+  },
+  {
+   "qid": "400",
+   "style": "long",
+   "question": "I need to tell support something is broken, what info should I include?",
+   "gold_id": "89135881-4dfe-5edc-a0fa-465889e993a5",
+   "gold_page": "https://docs.bidirection.ai/workspace-settings"
+  },
+  {
+   "qid": "401",
+   "style": "short",
+   "question": "Who gets notified about new leads?",
+   "gold_id": "a3a79d46-bd42-534b-8dd0-93bfca2833b2",
+   "gold_page": "https://docs.bidirection.ai/workspace-settings"
+  },
+  {
+   "qid": "402",
+   "style": "long",
+   "question": "I am an admin and want to choose who receives lead alerts.",
+   "gold_id": "a3a79d46-bd42-534b-8dd0-93bfca2833b2",
+   "gold_page": "https://docs.bidirection.ai/workspace-settings"
+  },
+  {
+   "qid": "403",
+   "style": "short",
+   "question": "Can I change my workspace URL?",
+   "gold_id": "3422a872-87a8-53f0-bfe4-4c61e3656f13",
+   "gold_page": "https://docs.bidirection.ai/workspace-settings"
+  },
+  {
+   "qid": "404",
+   "style": "long",
+   "question": "I want to update my workspace slug but I cannot find the option.",
+   "gold_id": "3422a872-87a8-53f0-bfe4-4c61e3656f13",
+   "gold_page": "https://docs.bidirection.ai/workspace-settings"
+  },
+  {
+   "qid": "405",
+   "style": "short",
+   "question": "How do I delete my workspace?",
+   "gold_id": "f147e4ce-aa96-55fc-8972-a7d4743dc242",
+   "gold_page": "https://docs.bidirection.ai/workspace-settings"
+  },
+  {
+   "qid": "406",
+   "style": "long",
+   "question": "I want to close my account permanently but cannot find the delete button.",
+   "gold_id": "f147e4ce-aa96-55fc-8972-a7d4743dc242",
+   "gold_page": "https://docs.bidirection.ai/workspace-settings"
+  }
+ ]
+}

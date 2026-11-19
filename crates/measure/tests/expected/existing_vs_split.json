@@ -1,0 +1,57 @@
+{
+ "lookups_in_both_runs": 1623,
+ "lookups_whose_scores_moved": {
+  "k": 20,
+  "n": 1623,
+  "pct": 1.2,
+  "range95": [
+   0.8,
+   1.9
+  ]
+ },
+ "repeat": {
+  "flip_rate_pct": 2.5,
+  "kept_mean_pct": 99.3,
+  "right_page_gained": 0,
+  "right_page_in_both": 1408,
+  "right_page_lost": 1,
+  "same_lead": {
+   "k": 1615,
+   "n": 1623,
+   "pct": 99.5,
+   "range95": [
+    99,
+    99.8
+   ]
+  },
+  "same_list": {
+   "k": 1582,
+   "n": 1623,
+   "pct": 97.5,
+   "range95": [
+    96.6,
+    98.1
+   ]
+  },
+  "same_set": {
+   "k": 1582,
+   "n": 1623,
+   "pct": 97.5,
+   "range95": [
+    96.6,
+    98.1
+   ]
+  }
+ },
+ "shared_passages_scored": 5435,
+ "shared_passages_with_the_same_score": {
+  "k": 5366,
+  "n": 5435,
+  "pct": 98.7,
+  "range95": [
+   98.4,
+   99
+  ]
+ },
+ "widest_score_gap": 0.0003
+}

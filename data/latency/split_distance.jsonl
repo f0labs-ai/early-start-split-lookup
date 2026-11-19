@@ -1,0 +1,6 @@
+{"lane":"today d20","lookups":100,"p50_ms":120,"p90_ms":130}
+{"lane":"split d20","lookups":100,"p50_ms":122,"p90_ms":131}
+{"lane":"today d60","lookups":100,"p50_ms":203,"p90_ms":212}
+{"lane":"split d60","lookups":100,"p50_ms":204,"p90_ms":215}
+{"lane":"today d120","lookups":100,"p50_ms":325,"p90_ms":335}
+{"lane":"split d120","lookups":100,"p50_ms":325,"p90_ms":335}

@@ -1,0 +1,12 @@
+{
+ "name": "early-s-fl192",
+ "early_start": "first-silence:128:request",
+ "silence_floor_ms": 192,
+ "mic_frame_ms": 32,
+ "kb_delay_ms": 0,
+ "lookup": "existing",
+ "knowledge_searches": 153,
+ "stub_ttft_ms": 300,
+ "started": "2026-11-19T13:32:58Z",
+ "ended": "2026-11-19T13:46:42Z"
+}

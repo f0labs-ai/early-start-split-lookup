@@ -1,0 +1,12 @@
+{
+ "name": "base-s-d60",
+ "early_start": "numbers",
+ "silence_floor_ms": 320,
+ "mic_frame_ms": 32,
+ "kb_delay_ms": 60,
+ "lookup": "existing",
+ "knowledge_searches": 128,
+ "stub_ttft_ms": 300,
+ "started": "2026-11-19T12:02:33Z",
+ "ended": "2026-11-19T12:17:18Z"
+}

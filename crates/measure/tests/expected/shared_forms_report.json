@@ -1,0 +1,2184 @@
+{
+ "all": {
+  "against_as_written": {
+   "last_word_missing": {
+    "flip_rate_pct": 88.4,
+    "kept_mean_pct": 60.2,
+    "right_page_gained": 7,
+    "right_page_in_both": 295,
+    "right_page_lost": 74,
+    "same_lead": {
+     "k": 233,
+     "n": 406,
+     "pct": 57.4,
+     "range95": [
+      52.5,
+      62.1
+     ]
+    },
+    "same_list": {
+     "k": 47,
+     "n": 406,
+     "pct": 11.6,
+     "range95": [
+      8.8,
+      15.1
+     ]
+    },
+    "same_set": {
+     "k": 84,
+     "n": 406,
+     "pct": 20.7,
+     "range95": [
+      17,
+      24.9
+     ]
+    }
+   },
+   "no_end_mark": {
+    "flip_rate_pct": 68,
+    "kept_mean_pct": 85.5,
+    "right_page_gained": 5,
+    "right_page_in_both": 365,
+    "right_page_lost": 4,
+    "same_lead": {
+     "k": 331,
+     "n": 406,
+     "pct": 81.5,
+     "range95": [
+      77.5,
+      85
+     ]
+    },
+    "same_list": {
+     "k": 130,
+     "n": 406,
+     "pct": 32,
+     "range95": [
+      27.7,
+      36.7
+     ]
+    },
+    "same_set": {
+     "k": 201,
+     "n": 406,
+     "pct": 49.5,
+     "range95": [
+      44.7,
+      54.4
+     ]
+    }
+   },
+   "plain": {
+    "flip_rate_pct": 77.8,
+    "kept_mean_pct": 79.4,
+    "right_page_gained": 5,
+    "right_page_in_both": 354,
+    "right_page_lost": 15,
+    "same_lead": {
+     "k": 305,
+     "n": 406,
+     "pct": 75.1,
+     "range95": [
+      70.7,
+      79.1
+     ]
+    },
+    "same_list": {
+     "k": 90,
+     "n": 406,
+     "pct": 22.2,
+     "range95": [
+      18.4,
+      26.5
+     ]
+    },
+    "same_set": {
+     "k": 160,
+     "n": 406,
+     "pct": 39.4,
+     "range95": [
+      34.8,
+      44.2
+     ]
+    }
+   }
+  },
+  "by_form": {
+   "as_written": {
+    "median_top_score": 0.5231,
+    "nothing_found": {
+     "k": 4,
+     "n": 406,
+     "pct": 1,
+     "range95": [
+      0.4,
+      2.5
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 369,
+     "n": 406,
+     "pct": 90.9,
+     "range95": [
+      87.7,
+      93.3
+     ]
+    },
+    "right_page_first": {
+     "k": 297,
+     "n": 406,
+     "pct": 73.2,
+     "range95": [
+      68.6,
+      77.2
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 304,
+     "n": 406,
+     "pct": 74.9,
+     "range95": [
+      70.4,
+      78.8
+     ]
+    }
+   },
+   "last_word_missing": {
+    "median_top_score": 0.4621,
+    "nothing_found": {
+     "k": 19,
+     "n": 406,
+     "pct": 4.7,
+     "range95": [
+      3,
+      7.2
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 302,
+     "n": 406,
+     "pct": 74.4,
+     "range95": [
+      69.9,
+      78.4
+     ]
+    },
+    "right_page_first": {
+     "k": 238,
+     "n": 406,
+     "pct": 58.6,
+     "range95": [
+      53.8,
+      63.3
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 225,
+     "n": 406,
+     "pct": 55.4,
+     "range95": [
+      50.6,
+      60.2
+     ]
+    }
+   },
+   "no_end_mark": {
+    "median_top_score": 0.5324,
+    "nothing_found": {
+     "k": 3,
+     "n": 406,
+     "pct": 0.7,
+     "range95": [
+      0.3,
+      2.1
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 370,
+     "n": 406,
+     "pct": 91.1,
+     "range95": [
+      88,
+      93.5
+     ]
+    },
+    "right_page_first": {
+     "k": 301,
+     "n": 406,
+     "pct": 74.1,
+     "range95": [
+      69.7,
+      78.2
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 298,
+     "n": 406,
+     "pct": 73.4,
+     "range95": [
+      68.9,
+      77.5
+     ]
+    }
+   },
+   "plain": {
+    "median_top_score": 0.5372,
+    "nothing_found": {
+     "k": 12,
+     "n": 406,
+     "pct": 3,
+     "range95": [
+      1.7,
+      5.1
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 359,
+     "n": 406,
+     "pct": 88.4,
+     "range95": [
+      84.9,
+      91.2
+     ]
+    },
+    "right_page_first": {
+     "k": 293,
+     "n": 406,
+     "pct": 72.2,
+     "range95": [
+      67.6,
+      76.3
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 294,
+     "n": 406,
+     "pct": 72.4,
+     "range95": [
+      67.9,
+      76.5
+     ]
+    }
+   }
+  },
+  "questions": 406,
+  "reuse_audit": {
+   "an_end_mark_missing": [
+    {
+     "harmful_of_reused": {
+      "k": 4,
+      "n": 406,
+      "pct": 1,
+      "range95": [
+       0.4,
+       2.5
+      ]
+     },
+     "reused": {
+      "k": 406,
+      "n": 406,
+      "pct": 100,
+      "range95": [
+       99.1,
+       100
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 276,
+      "n": 406,
+      "pct": 68,
+      "range95": [
+       63.3,
+       72.3
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    }
+   ],
+   "no_capitals_no_punctuation": [
+    {
+     "harmful_of_reused": {
+      "k": 15,
+      "n": 406,
+      "pct": 3.7,
+      "range95": [
+       2.3,
+       6
+      ]
+     },
+     "reused": {
+      "k": 406,
+      "n": 406,
+      "pct": 100,
+      "range95": [
+       99.1,
+       100
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 316,
+      "n": 406,
+      "pct": 77.8,
+      "range95": [
+       73.5,
+       81.6
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    }
+   ],
+   "the_last_word_still_to_come": [
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    }
+   ],
+   "the_same_words": [
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     },
+     "reused": {
+      "k": 406,
+      "n": 406,
+      "pct": 100,
+      "range95": [
+       99.1,
+       100
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     },
+     "reused": {
+      "k": 406,
+      "n": 406,
+      "pct": 100,
+      "range95": [
+       99.1,
+       100
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     },
+     "reused": {
+      "k": 406,
+      "n": 406,
+      "pct": 100,
+      "range95": [
+       99.1,
+       100
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 406,
+      "pct": 0,
+      "range95": [
+       0,
+       0.9
+      ]
+     }
+    }
+   ]
+  },
+  "settle": {
+   "by_words_still_to_come": [
+    {
+     "nothing_found": {
+      "k": 4,
+      "n": 100,
+      "pct": 4,
+      "range95": [
+       1.6,
+       9.8
+      ]
+     },
+     "right_page_among_the_passages": {
+      "k": 76,
+      "n": 100,
+      "pct": 76,
+      "range95": [
+       66.8,
+       83.3
+      ]
+     },
+     "same_lead": {
+      "k": 61,
+      "n": 100,
+      "pct": 61,
+      "range95": [
+       51.2,
+       70
+      ]
+     },
+     "same_list": {
+      "k": 19,
+      "n": 100,
+      "pct": 19,
+      "range95": [
+       12.5,
+       27.8
+      ]
+     },
+     "words_left": 1
+    },
+    {
+     "nothing_found": {
+      "k": 4,
+      "n": 100,
+      "pct": 4,
+      "range95": [
+       1.6,
+       9.8
+      ]
+     },
+     "right_page_among_the_passages": {
+      "k": 74,
+      "n": 100,
+      "pct": 74,
+      "range95": [
+       64.6,
+       81.6
+      ]
+     },
+     "same_lead": {
+      "k": 58,
+      "n": 100,
+      "pct": 58,
+      "range95": [
+       48.2,
+       67.2
+      ]
+     },
+     "same_list": {
+      "k": 19,
+      "n": 100,
+      "pct": 19,
+      "range95": [
+       12.5,
+       27.8
+      ]
+     },
+     "words_left": 2
+    },
+    {
+     "nothing_found": {
+      "k": 7,
+      "n": 100,
+      "pct": 7,
+      "range95": [
+       3.4,
+       13.7
+      ]
+     },
+     "right_page_among_the_passages": {
+      "k": 74,
+      "n": 100,
+      "pct": 74,
+      "range95": [
+       64.6,
+       81.6
+      ]
+     },
+     "same_lead": {
+      "k": 56,
+      "n": 100,
+      "pct": 56,
+      "range95": [
+       46.2,
+       65.3
+      ]
+     },
+     "same_list": {
+      "k": 15,
+      "n": 100,
+      "pct": 15,
+      "range95": [
+       9.3,
+       23.3
+      ]
+     },
+     "words_left": 3
+    },
+    {
+     "nothing_found": {
+      "k": 7,
+      "n": 100,
+      "pct": 7,
+      "range95": [
+       3.4,
+       13.7
+      ]
+     },
+     "right_page_among_the_passages": {
+      "k": 64,
+      "n": 100,
+      "pct": 64,
+      "range95": [
+       54.2,
+       72.7
+      ]
+     },
+     "same_lead": {
+      "k": 45,
+      "n": 100,
+      "pct": 45,
+      "range95": [
+       35.6,
+       54.8
+      ]
+     },
+     "same_list": {
+      "k": 10,
+      "n": 100,
+      "pct": 10,
+      "range95": [
+       5.5,
+       17.4
+      ]
+     },
+     "words_left": 4
+    },
+    {
+     "nothing_found": {
+      "k": 7,
+      "n": 100,
+      "pct": 7,
+      "range95": [
+       3.4,
+       13.7
+      ]
+     },
+     "right_page_among_the_passages": {
+      "k": 60,
+      "n": 100,
+      "pct": 60,
+      "range95": [
+       50.2,
+       69.1
+      ]
+     },
+     "same_lead": {
+      "k": 35,
+      "n": 100,
+      "pct": 35,
+      "range95": [
+       26.4,
+       44.7
+      ]
+     },
+     "same_list": {
+      "k": 9,
+      "n": 100,
+      "pct": 9,
+      "range95": [
+       4.8,
+       16.2
+      ]
+     },
+     "words_left": 5
+    },
+    {
+     "nothing_found": {
+      "k": 8,
+      "n": 100,
+      "pct": 8,
+      "range95": [
+       4.1,
+       15
+      ]
+     },
+     "right_page_among_the_passages": {
+      "k": 53,
+      "n": 100,
+      "pct": 53,
+      "range95": [
+       43.3,
+       62.5
+      ]
+     },
+     "same_lead": {
+      "k": 29,
+      "n": 100,
+      "pct": 29,
+      "range95": [
+       21,
+       38.5
+      ]
+     },
+     "same_list": {
+      "k": 7,
+      "n": 100,
+      "pct": 7,
+      "range95": [
+       3.4,
+       13.7
+      ]
+     },
+     "words_left": 6
+    },
+    {
+     "nothing_found": {
+      "k": 6,
+      "n": 100,
+      "pct": 6,
+      "range95": [
+       2.8,
+       12.5
+      ]
+     },
+     "right_page_among_the_passages": {
+      "k": 50,
+      "n": 100,
+      "pct": 50,
+      "range95": [
+       40.4,
+       59.6
+      ]
+     },
+     "same_lead": {
+      "k": 22,
+      "n": 100,
+      "pct": 22,
+      "range95": [
+       15,
+       31.1
+      ]
+     },
+     "same_list": {
+      "k": 4,
+      "n": 100,
+      "pct": 4,
+      "range95": [
+       1.6,
+       9.8
+      ]
+     },
+     "words_left": 7
+    },
+    {
+     "nothing_found": {
+      "k": 23,
+      "n": 489,
+      "pct": 4.7,
+      "range95": [
+       3.2,
+       7
+      ]
+     },
+     "right_page_among_the_passages": {
+      "k": 186,
+      "n": 489,
+      "pct": 38,
+      "range95": [
+       33.8,
+       42.4
+      ]
+     },
+     "same_lead": {
+      "k": 58,
+      "n": 489,
+      "pct": 11.9,
+      "range95": [
+       9.3,
+       15
+      ]
+     },
+     "same_list": {
+      "k": 4,
+      "n": 489,
+      "pct": 0.8,
+      "range95": [
+       0.3,
+       2.1
+      ]
+     },
+     "words_left": 8
+    }
+   ],
+   "questions": 100,
+   "settled_at_least_n_words_before_the_end": [
+    {
+     "k": 19,
+     "n": 100,
+     "pct": 19,
+     "range95": [
+      12.5,
+      27.8
+     ]
+    },
+    {
+     "k": 13,
+     "n": 100,
+     "pct": 13,
+     "range95": [
+      7.8,
+      21
+     ]
+    },
+    {
+     "k": 10,
+     "n": 100,
+     "pct": 10,
+     "range95": [
+      5.5,
+      17.4
+     ]
+    },
+    {
+     "k": 5,
+     "n": 100,
+     "pct": 5,
+     "range95": [
+      2.2,
+      11.2
+     ]
+    },
+    {
+     "k": 4,
+     "n": 100,
+     "pct": 4,
+     "range95": [
+      1.6,
+      9.8
+     ]
+    },
+    {
+     "k": 3,
+     "n": 100,
+     "pct": 3,
+     "range95": [
+      1,
+      8.5
+     ]
+    },
+    {
+     "k": 2,
+     "n": 100,
+     "pct": 2,
+     "range95": [
+      0.6,
+      7
+     ]
+    },
+    {
+     "k": 2,
+     "n": 100,
+     "pct": 2,
+     "range95": [
+      0.6,
+      7
+     ]
+    }
+   ],
+   "whole_question_right_page": {
+    "k": 89,
+    "n": 100,
+    "pct": 89,
+    "range95": [
+     81.4,
+     93.7
+    ]
+   }
+  }
+ },
+ "long_questions": {
+  "against_as_written": {
+   "last_word_missing": {
+    "flip_rate_pct": 83.3,
+    "kept_mean_pct": 68.6,
+    "right_page_gained": 3,
+    "right_page_in_both": 157,
+    "right_page_lost": 27,
+    "same_lead": {
+     "k": 132,
+     "n": 203,
+     "pct": 65,
+     "range95": [
+      58.2,
+      71.3
+     ]
+    },
+    "same_list": {
+     "k": 34,
+     "n": 203,
+     "pct": 16.7,
+     "range95": [
+      12.2,
+      22.5
+     ]
+    },
+    "same_set": {
+     "k": 58,
+     "n": 203,
+     "pct": 28.6,
+     "range95": [
+      22.8,
+      35.1
+     ]
+    }
+   },
+   "no_end_mark": {
+    "flip_rate_pct": 67.5,
+    "kept_mean_pct": 86,
+    "right_page_gained": 1,
+    "right_page_in_both": 182,
+    "right_page_lost": 2,
+    "same_lead": {
+     "k": 165,
+     "n": 203,
+     "pct": 81.3,
+     "range95": [
+      75.4,
+      86
+     ]
+    },
+    "same_list": {
+     "k": 66,
+     "n": 203,
+     "pct": 32.5,
+     "range95": [
+      26.4,
+      39.2
+     ]
+    },
+    "same_set": {
+     "k": 103,
+     "n": 203,
+     "pct": 50.7,
+     "range95": [
+      43.9,
+      57.5
+     ]
+    }
+   },
+   "plain": {
+    "flip_rate_pct": 80.8,
+    "kept_mean_pct": 79.5,
+    "right_page_gained": 3,
+    "right_page_in_both": 175,
+    "right_page_lost": 9,
+    "same_lead": {
+     "k": 148,
+     "n": 203,
+     "pct": 72.9,
+     "range95": [
+      66.4,
+      78.6
+     ]
+    },
+    "same_list": {
+     "k": 39,
+     "n": 203,
+     "pct": 19.2,
+     "range95": [
+      14.4,
+      25.2
+     ]
+    },
+    "same_set": {
+     "k": 77,
+     "n": 203,
+     "pct": 37.9,
+     "range95": [
+      31.5,
+      44.8
+     ]
+    }
+   }
+  },
+  "by_form": {
+   "as_written": {
+    "median_top_score": 0.5155,
+    "nothing_found": {
+     "k": 2,
+     "n": 203,
+     "pct": 1,
+     "range95": [
+      0.3,
+      3.5
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 184,
+     "n": 203,
+     "pct": 90.6,
+     "range95": [
+      85.8,
+      93.9
+     ]
+    },
+    "right_page_first": {
+     "k": 154,
+     "n": 203,
+     "pct": 75.9,
+     "range95": [
+      69.5,
+      81.2
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 161,
+     "n": 203,
+     "pct": 79.3,
+     "range95": [
+      73.2,
+      84.3
+     ]
+    }
+   },
+   "last_word_missing": {
+    "median_top_score": 0.4839,
+    "nothing_found": {
+     "k": 10,
+     "n": 203,
+     "pct": 4.9,
+     "range95": [
+      2.7,
+      8.8
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 160,
+     "n": 203,
+     "pct": 78.8,
+     "range95": [
+      72.7,
+      83.9
+     ]
+    },
+    "right_page_first": {
+     "k": 134,
+     "n": 203,
+     "pct": 66,
+     "range95": [
+      59.3,
+      72.2
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 133,
+     "n": 203,
+     "pct": 65.5,
+     "range95": [
+      58.7,
+      71.7
+     ]
+    }
+   },
+   "no_end_mark": {
+    "median_top_score": 0.5136,
+    "nothing_found": {
+     "k": 2,
+     "n": 203,
+     "pct": 1,
+     "range95": [
+      0.3,
+      3.5
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 183,
+     "n": 203,
+     "pct": 90.1,
+     "range95": [
+      85.3,
+      93.5
+     ]
+    },
+    "right_page_first": {
+     "k": 154,
+     "n": 203,
+     "pct": 75.9,
+     "range95": [
+      69.5,
+      81.2
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 159,
+     "n": 203,
+     "pct": 78.3,
+     "range95": [
+      72.2,
+      83.4
+     ]
+    }
+   },
+   "plain": {
+    "median_top_score": 0.5224,
+    "nothing_found": {
+     "k": 6,
+     "n": 203,
+     "pct": 3,
+     "range95": [
+      1.4,
+      6.3
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 178,
+     "n": 203,
+     "pct": 87.7,
+     "range95": [
+      82.5,
+      91.5
+     ]
+    },
+    "right_page_first": {
+     "k": 149,
+     "n": 203,
+     "pct": 73.4,
+     "range95": [
+      66.9,
+      79
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 158,
+     "n": 203,
+     "pct": 77.8,
+     "range95": [
+      71.6,
+      83
+     ]
+    }
+   }
+  },
+  "questions": 203,
+  "reuse_audit": {
+   "an_end_mark_missing": [
+    {
+     "harmful_of_reused": {
+      "k": 2,
+      "n": 203,
+      "pct": 1,
+      "range95": [
+       0.3,
+       3.5
+      ]
+     },
+     "reused": {
+      "k": 203,
+      "n": 203,
+      "pct": 100,
+      "range95": [
+       98.1,
+       100
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 137,
+      "n": 203,
+      "pct": 67.5,
+      "range95": [
+       60.8,
+       73.6
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    }
+   ],
+   "no_capitals_no_punctuation": [
+    {
+     "harmful_of_reused": {
+      "k": 9,
+      "n": 203,
+      "pct": 4.4,
+      "range95": [
+       2.3,
+       8.2
+      ]
+     },
+     "reused": {
+      "k": 203,
+      "n": 203,
+      "pct": 100,
+      "range95": [
+       98.1,
+       100
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 164,
+      "n": 203,
+      "pct": 80.8,
+      "range95": [
+       74.8,
+       85.6
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    }
+   ],
+   "the_last_word_still_to_come": [
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    }
+   ],
+   "the_same_words": [
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "reused": {
+      "k": 203,
+      "n": 203,
+      "pct": 100,
+      "range95": [
+       98.1,
+       100
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "reused": {
+      "k": 203,
+      "n": 203,
+      "pct": 100,
+      "range95": [
+       98.1,
+       100
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "reused": {
+      "k": 203,
+      "n": 203,
+      "pct": 100,
+      "range95": [
+       98.1,
+       100
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     }
+    }
+   ]
+  },
+  "settle": null
+ },
+ "lookups": 2813,
+ "short_questions": {
+  "against_as_written": {
+   "last_word_missing": {
+    "flip_rate_pct": 93.6,
+    "kept_mean_pct": 51.9,
+    "right_page_gained": 4,
+    "right_page_in_both": 138,
+    "right_page_lost": 47,
+    "same_lead": {
+     "k": 101,
+     "n": 203,
+     "pct": 49.8,
+     "range95": [
+      42.9,
+      56.6
+     ]
+    },
+    "same_list": {
+     "k": 13,
+     "n": 203,
+     "pct": 6.4,
+     "range95": [
+      3.8,
+      10.6
+     ]
+    },
+    "same_set": {
+     "k": 26,
+     "n": 203,
+     "pct": 12.8,
+     "range95": [
+      8.9,
+      18.1
+     ]
+    }
+   },
+   "no_end_mark": {
+    "flip_rate_pct": 68.5,
+    "kept_mean_pct": 85,
+    "right_page_gained": 4,
+    "right_page_in_both": 183,
+    "right_page_lost": 2,
+    "same_lead": {
+     "k": 166,
+     "n": 203,
+     "pct": 81.8,
+     "range95": [
+      75.9,
+      86.5
+     ]
+    },
+    "same_list": {
+     "k": 64,
+     "n": 203,
+     "pct": 31.5,
+     "range95": [
+      25.5,
+      38.2
+     ]
+    },
+    "same_set": {
+     "k": 98,
+     "n": 203,
+     "pct": 48.3,
+     "range95": [
+      41.5,
+      55.1
+     ]
+    }
+   },
+   "plain": {
+    "flip_rate_pct": 74.9,
+    "kept_mean_pct": 79.2,
+    "right_page_gained": 2,
+    "right_page_in_both": 179,
+    "right_page_lost": 6,
+    "same_lead": {
+     "k": 157,
+     "n": 203,
+     "pct": 77.3,
+     "range95": [
+      71.1,
+      82.6
+     ]
+    },
+    "same_list": {
+     "k": 51,
+     "n": 203,
+     "pct": 25.1,
+     "range95": [
+      19.7,
+      31.5
+     ]
+    },
+    "same_set": {
+     "k": 83,
+     "n": 203,
+     "pct": 40.9,
+     "range95": [
+      34.4,
+      47.8
+     ]
+    }
+   }
+  },
+  "by_form": {
+   "as_written": {
+    "median_top_score": 0.5324,
+    "nothing_found": {
+     "k": 2,
+     "n": 203,
+     "pct": 1,
+     "range95": [
+      0.3,
+      3.5
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 185,
+     "n": 203,
+     "pct": 91.1,
+     "range95": [
+      86.4,
+      94.3
+     ]
+    },
+    "right_page_first": {
+     "k": 143,
+     "n": 203,
+     "pct": 70.4,
+     "range95": [
+      63.8,
+      76.3
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 143,
+     "n": 203,
+     "pct": 70.4,
+     "range95": [
+      63.8,
+      76.3
+     ]
+    }
+   },
+   "last_word_missing": {
+    "median_top_score": 0.4175,
+    "nothing_found": {
+     "k": 9,
+     "n": 203,
+     "pct": 4.4,
+     "range95": [
+      2.3,
+      8.2
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 142,
+     "n": 203,
+     "pct": 70,
+     "range95": [
+      63.3,
+      75.8
+     ]
+    },
+    "right_page_first": {
+     "k": 104,
+     "n": 203,
+     "pct": 51.2,
+     "range95": [
+      44.4,
+      58
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 92,
+     "n": 203,
+     "pct": 45.3,
+     "range95": [
+      38.6,
+      52.2
+     ]
+    }
+   },
+   "no_end_mark": {
+    "median_top_score": 0.5421,
+    "nothing_found": {
+     "k": 1,
+     "n": 203,
+     "pct": 0.5,
+     "range95": [
+      0.1,
+      2.7
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 187,
+     "n": 203,
+     "pct": 92.1,
+     "range95": [
+      87.6,
+      95.1
+     ]
+    },
+    "right_page_first": {
+     "k": 147,
+     "n": 203,
+     "pct": 72.4,
+     "range95": [
+      65.9,
+      78.1
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 139,
+     "n": 203,
+     "pct": 68.5,
+     "range95": [
+      61.8,
+      74.5
+     ]
+    }
+   },
+   "plain": {
+    "median_top_score": 0.5491,
+    "nothing_found": {
+     "k": 6,
+     "n": 203,
+     "pct": 3,
+     "range95": [
+      1.4,
+      6.3
+     ]
+    },
+    "right_page_among_the_passages": {
+     "k": 181,
+     "n": 203,
+     "pct": 89.2,
+     "range95": [
+      84.1,
+      92.7
+     ]
+    },
+    "right_page_first": {
+     "k": 144,
+     "n": 203,
+     "pct": 70.9,
+     "range95": [
+      64.3,
+      76.7
+     ]
+    },
+    "source_passage_among_the_passages": {
+     "k": 136,
+     "n": 203,
+     "pct": 67,
+     "range95": [
+      60.3,
+      73.1
+     ]
+    }
+   }
+  },
+  "questions": 203,
+  "reuse_audit": {
+   "an_end_mark_missing": [
+    {
+     "harmful_of_reused": {
+      "k": 2,
+      "n": 203,
+      "pct": 1,
+      "range95": [
+       0.3,
+       3.5
+      ]
+     },
+     "reused": {
+      "k": 203,
+      "n": 203,
+      "pct": 100,
+      "range95": [
+       98.1,
+       100
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 139,
+      "n": 203,
+      "pct": 68.5,
+      "range95": [
+       61.8,
+       74.5
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    }
+   ],
+   "no_capitals_no_punctuation": [
+    {
+     "harmful_of_reused": {
+      "k": 6,
+      "n": 203,
+      "pct": 3,
+      "range95": [
+       1.4,
+       6.3
+      ]
+     },
+     "reused": {
+      "k": 203,
+      "n": 203,
+      "pct": 100,
+      "range95": [
+       98.1,
+       100
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 152,
+      "n": 203,
+      "pct": 74.9,
+      "range95": [
+       68.5,
+       80.3
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    }
+   ],
+   "the_last_word_still_to_come": [
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     },
+     "reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 0,
+      "pct": null,
+      "range95": null
+     }
+    }
+   ],
+   "the_same_words": [
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "reused": {
+      "k": 203,
+      "n": 203,
+      "pct": 100,
+      "range95": [
+       98.1,
+       100
+      ]
+     },
+     "rule": "loose",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "reused": {
+      "k": 203,
+      "n": 203,
+      "pct": 100,
+      "range95": [
+       98.1,
+       100
+      ]
+     },
+     "rule": "words",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     }
+    },
+    {
+     "harmful_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     },
+     "reused": {
+      "k": 203,
+      "n": 203,
+      "pct": 100,
+      "range95": [
+       98.1,
+       100
+      ]
+     },
+     "rule": "request",
+     "stale_of_reused": {
+      "k": 0,
+      "n": 203,
+      "pct": 0,
+      "range95": [
+       0,
+       1.9
+      ]
+     }
+    }
+   ]
+  },
+  "settle": null
+ }
+}
