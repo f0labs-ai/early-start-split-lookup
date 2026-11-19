@@ -109,9 +109,16 @@ curl -s http://127.0.0.1:8084/v1/search -H 'content-type: application/json' \
 Each lookup answers with its passages and the mode it ran in, `split` or
 `graph`. Graph mode uses the database's own approximate dense search. The
 answer also says whether it fell back, and where the time went. To compare
-the two modes, put `"mode": "graph"` or `"mode": "split"` in a request, then
-run `ctxaudit forms --endpoint http://127.0.0.1:8084/v1/search` with each
-mode and `ctxaudit again` on the two outputs.
+the two modes, put `"mode": "graph"` or `"mode": "split"` in a request. For a
+whole question set:
+
+```sh
+cargo run --release -p measure --bin ctxaudit -- forms questions.json graph.jsonl \
+  --endpoint http://127.0.0.1:8084/v1/search --mode graph
+cargo run --release -p measure --bin ctxaudit -- forms questions.json split.jsonl \
+  --endpoint http://127.0.0.1:8084/v1/search --mode split
+cargo run --release -p measure --bin ctxaudit -- again questions.json graph.jsonl split.jsonl
+```
 
 A split lookup that cannot shortlist runs as a graph lookup, and so does one
 whose request the database refuses. Without an embedder, the keyword leg
@@ -146,8 +153,8 @@ and the search into silence the caller leaves anyway.
 ## What is not here
 
 - **The voice server and the knowledge service the measurements ran on.**
-  - The early-start policy is extracted from that voice server as a library,
-    with its early-start tests.
+  - The early-start policy is extracted from that voice server as a library.
+    The voice server's early-start scenarios are its tests.
   - The split lookup is reimplemented here on Qdrant and
     text-embeddings-inference.
   - The measured knowledge service also resolved symptom phrasings to the
